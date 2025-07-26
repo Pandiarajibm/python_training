@@ -1,0 +1,14 @@
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,923 : This is test INFO message
+DEBUG : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,923 : This is test DEBUG message
+WARNING : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : This is test WARNING message
+ERROR : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : This is test ERROR message
+CRITICAL : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : This is test CRITICAL message
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Reached try block
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Opening file..
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Reached Except Block
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : This exception block is written to handle all file open() function error
+ERROR : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Error occurred and message is :[Errno 2] No such file or directory: 'D:\\some\\wrong\\file.txt'
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Reached Finally Block
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Closing file handle..
+INFO : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Not able to close file handle
+ERROR : 16_program_on_capturing_logs.py : 2025-07-24 13:35:07,924 : Error message:name 'my_file_handle' is not defined

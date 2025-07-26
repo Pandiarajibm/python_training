@@ -1,0 +1,5058 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>Beautiful Soup Documentation — Beautiful Soup 4.13.0 documentation</website_title>
+    <all_urls>http://www.crummy.com/software/BeautifulSoup/</all_urls>
+    <all_paragraphs>Beautiful Soup is a
+Python library for pulling data out of HTML and XML files. It works
+with your favorite parser to provide idiomatic ways of navigating,
+searching, and modifying the parse tree. It commonly saves programmers
+hours or days of work.</all_paragraphs>
+  </row>
+  <row>
+    <index>1</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html</all_urls>
+    <all_paragraphs>These instructions illustrate all major features of Beautiful Soup 4,
+with examples. I show you what the library is good for, how it works,
+how to use it, how to make it do what you want, and what to do when it
+violates your expectations.</all_paragraphs>
+  </row>
+  <row>
+    <index>2</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/</all_urls>
+    <all_paragraphs>This document covers Beautiful Soup version 4.13.3. The examples in
+this documentation were written for Python 3.8.</all_paragraphs>
+  </row>
+  <row>
+    <index>3</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://kondou.com/BS4/</all_urls>
+    <all_paragraphs>You might be looking for the documentation for Beautiful Soup 3.
+If so, you should know that Beautiful Soup 3 is no longer being
+developed and that all support for it was dropped on December
+31, 2020. If you want to learn about the differences between Beautiful
+Soup 3 and Beautiful Soup 4, see Porting code to BS4.</all_paragraphs>
+  </row>
+  <row>
+    <index>4</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/</all_urls>
+    <all_paragraphs>This documentation has been translated into other languages by
+Beautiful Soup users:</all_paragraphs>
+  </row>
+  <row>
+    <index>5</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr</all_urls>
+    <all_paragraphs>这篇文档当然还有中文版.</all_paragraphs>
+  </row>
+  <row>
+    <index>6</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.crummy.com/software/BeautifulSoup/bs4/doc.es/</all_urls>
+    <all_paragraphs>このページは日本語で利用できます(外部リンク)</all_paragraphs>
+  </row>
+  <row>
+    <index>7</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.crummy.com/software/BeautifulSoup/bs4/doc.ru/</all_urls>
+    <all_paragraphs>이 문서는 한국어 번역도 가능합니다.</all_paragraphs>
+  </row>
+  <row>
+    <index>8</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://groups.google.com/forum/?fromgroups#!forum/beautifulsoup</all_urls>
+    <all_paragraphs>Este documento também está disponível em Português do Brasil.</all_paragraphs>
+  </row>
+  <row>
+    <index>9</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html</all_urls>
+    <all_paragraphs>Este documento también está disponible en una traducción al español.</all_paragraphs>
+  </row>
+  <row>
+    <index>10</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.crummy.com/software/BeautifulSoup/download/4.x/</all_urls>
+    <all_paragraphs>Эта документация доступна на русском языке.</all_paragraphs>
+  </row>
+  <row>
+    <index>11</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://lxml.de/</all_urls>
+    <all_paragraphs>If you have questions about Beautiful Soup, or run into problems,
+send mail to the discussion group. If
+your problem involves parsing an HTML document, be sure to mention
+what the diagnose() function says about
+that document.</all_paragraphs>
+  </row>
+  <row>
+    <index>12</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://code.google.com/p/html5lib/</all_urls>
+    <all_paragraphs>When reporting an error in this documentation, please mention which
+translation you're reading.</all_paragraphs>
+  </row>
+  <row>
+    <index>13</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.w3.org/TR/REC-xml/#sec-prolog-dtd</all_urls>
+    <all_paragraphs>This document is written like an instruction manual, but you can also read
+traditional API documentation
+generated from the Beautiful Soup source code. If you want details
+about Beautiful Soup's internals, or a feature not covered in this
+document, try the API documentation.</all_paragraphs>
+  </row>
+  <row>
+    <index>14</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.w3.org/TR/REC-xml/#dt-doctype</all_urls>
+    <all_paragraphs>Here's an HTML document I'll be using as an example throughout this
+document. It's part of a story from Alice in Wonderland:</all_paragraphs>
+  </row>
+  <row>
+    <index>15</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.w3.org/TR/REC-xml/#sec-cdata-sect</all_urls>
+    <all_paragraphs>Running the "three sisters" document through Beautiful Soup gives us a
+BeautifulSoup object, which represents the document as a nested
+data structure:</all_paragraphs>
+  </row>
+  <row>
+    <index>16</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.w3.org/TR/REC-xml/#sec-pi</all_urls>
+    <all_paragraphs>Here are some simple ways to navigate that data structure:</all_paragraphs>
+  </row>
+  <row>
+    <index>17</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://facelessuser.github.io/soupsieve/</all_urls>
+    <all_paragraphs>One common task is extracting all the URLs found within a page's &lt;a&gt; tags:</all_paragraphs>
+  </row>
+  <row>
+    <index>18</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://facelessuser.github.io/soupsieve/selectors/</all_urls>
+    <all_paragraphs>Another common task is extracting all the text from a page:</all_paragraphs>
+  </row>
+  <row>
+    <index>19</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://facelessuser.github.io/soupsieve/</all_urls>
+    <all_paragraphs>Does this look like what you need? If so, read on.</all_paragraphs>
+  </row>
+  <row>
+    <index>20</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.w3.org/TR/html5/syntax.html#syntax</all_urls>
+    <all_paragraphs>If you're using a recent version of Debian or Ubuntu Linux, you can
+install Beautiful Soup with the system package manager:</all_paragraphs>
+  </row>
+  <row>
+    <index>21</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://wiki.python.org/moin/PrintFails</all_urls>
+    <all_paragraphs>$ apt-get install python3-bs4</all_paragraphs>
+  </row>
+  <row>
+    <index>22</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://lxml.de/</all_urls>
+    <all_paragraphs>Beautiful Soup 4 is published through PyPi, so if you can't install it
+with the system packager, you can install it with easy_install or
+pip. The package name is beautifulsoup4. Make sure you use the
+right version of pip or easy_install for your Python version
+(these may be named pip3 and easy_install3 respectively).</all_paragraphs>
+  </row>
+  <row>
+    <index>23</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://pypi.python.org/pypi/cchardet/</all_urls>
+    <all_paragraphs>$ easy_install beautifulsoup4</all_paragraphs>
+  </row>
+  <row>
+    <index>24</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.crummy.com/software/BeautifulSoup/download/3.x/BeautifulSoup-3.2.2.tar.gz</all_urls>
+    <all_paragraphs>$ pip install beautifulsoup4</all_paragraphs>
+  </row>
+  <row>
+    <index>25</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html</all_urls>
+    <all_paragraphs>(The BeautifulSoup package is not what you want. That's
+the previous major release, Beautiful Soup 3. Lots of software uses
+BS3, so it's still available, but if you're writing new code you
+should install beautifulsoup4.)</all_paragraphs>
+  </row>
+  <row>
+    <index>26</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.python.org/dev/peps/pep-0008/</all_urls>
+    <all_paragraphs>If you don't have easy_install or pip installed, you can
+download the Beautiful Soup 4 source tarball and
+install it with setup.py.</all_paragraphs>
+  </row>
+  <row>
+    <index>27</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.sphinx-doc.org/</all_urls>
+    <all_paragraphs>$ python setup.py install</all_paragraphs>
+  </row>
+  <row>
+    <index>28</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://alabaster.readthedocs.io</all_urls>
+    <all_paragraphs>If all else fails, the license for Beautiful Soup allows you to
+package the entire library with your application. You can download the
+tarball, copy its bs4 directory into your application's codebase,
+and use Beautiful Soup without installing it at all.</all_paragraphs>
+  </row>
+  <row>
+    <index>29</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>I use Python 3.10 to develop Beautiful Soup, but it should work with
+other recent versions.</all_paragraphs>
+  </row>
+  <row>
+    <index>30</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup supports the HTML parser included in Python's standard
+library, but it also supports a number of third-party Python parsers.
+One is the lxml parser. Depending on your setup,
+you might install lxml with one of these commands:</all_paragraphs>
+  </row>
+  <row>
+    <index>31</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>$ apt-get install python-lxml</all_paragraphs>
+  </row>
+  <row>
+    <index>32</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>$ easy_install lxml</all_paragraphs>
+  </row>
+  <row>
+    <index>33</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>$ pip install lxml</all_paragraphs>
+  </row>
+  <row>
+    <index>34</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Another alternative is the pure-Python html5lib parser, which parses HTML the way a
+web browser does. Depending on your setup, you might install html5lib
+with one of these commands:</all_paragraphs>
+  </row>
+  <row>
+    <index>35</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>$ apt-get install python3-html5lib</all_paragraphs>
+  </row>
+  <row>
+    <index>36</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>$ pip install html5lib</all_paragraphs>
+  </row>
+  <row>
+    <index>37</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This table summarizes the advantages and disadvantages of each parser library:</all_paragraphs>
+  </row>
+  <row>
+    <index>38</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Parser</all_paragraphs>
+  </row>
+  <row>
+    <index>39</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Typical usage</all_paragraphs>
+  </row>
+  <row>
+    <index>40</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Advantages</all_paragraphs>
+  </row>
+  <row>
+    <index>41</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Disadvantages</all_paragraphs>
+  </row>
+  <row>
+    <index>42</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Python's html.parser</all_paragraphs>
+  </row>
+  <row>
+    <index>43</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>BeautifulSoup(markup, "html.parser")</all_paragraphs>
+  </row>
+  <row>
+    <index>44</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Batteries included</all_paragraphs>
+  </row>
+  <row>
+    <index>45</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Decent speed</all_paragraphs>
+  </row>
+  <row>
+    <index>46</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Not as fast as lxml,
+less lenient than
+html5lib.</all_paragraphs>
+  </row>
+  <row>
+    <index>47</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>lxml's HTML parser</all_paragraphs>
+  </row>
+  <row>
+    <index>48</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>BeautifulSoup(markup, "lxml")</all_paragraphs>
+  </row>
+  <row>
+    <index>49</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Very fast</all_paragraphs>
+  </row>
+  <row>
+    <index>50</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>External C dependency</all_paragraphs>
+  </row>
+  <row>
+    <index>51</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>lxml's XML parser</all_paragraphs>
+  </row>
+  <row>
+    <index>52</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>BeautifulSoup(markup, "lxml-xml")
+BeautifulSoup(markup, "xml")</all_paragraphs>
+  </row>
+  <row>
+    <index>53</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Very fast</all_paragraphs>
+  </row>
+  <row>
+    <index>54</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The only currently supported
+XML parser</all_paragraphs>
+  </row>
+  <row>
+    <index>55</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>External C dependency</all_paragraphs>
+  </row>
+  <row>
+    <index>56</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>html5lib</all_paragraphs>
+  </row>
+  <row>
+    <index>57</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>BeautifulSoup(markup, "html5lib")</all_paragraphs>
+  </row>
+  <row>
+    <index>58</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Extremely lenient</all_paragraphs>
+  </row>
+  <row>
+    <index>59</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Parses pages the same way a
+web browser does</all_paragraphs>
+  </row>
+  <row>
+    <index>60</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Creates valid HTML5</all_paragraphs>
+  </row>
+  <row>
+    <index>61</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Very slow</all_paragraphs>
+  </row>
+  <row>
+    <index>62</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>External Python
+dependency</all_paragraphs>
+  </row>
+  <row>
+    <index>63</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you can, I recommend you install and use lxml for speed.</all_paragraphs>
+  </row>
+  <row>
+    <index>64</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Note that if a document is invalid, different parsers will generate
+different Beautiful Soup trees for it. See Differences
+between parsers for details.</all_paragraphs>
+  </row>
+  <row>
+    <index>65</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>To parse a document, pass it into the BeautifulSoup
+constructor. You can pass in a string or an open filehandle:</all_paragraphs>
+  </row>
+  <row>
+    <index>66</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>First, the document is converted to Unicode, and HTML entities are
+converted to Unicode characters:</all_paragraphs>
+  </row>
+  <row>
+    <index>67</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup then parses the document using the best available
+parser. It will use an HTML parser unless you specifically tell it to
+use an XML parser. (See Parsing XML.)</all_paragraphs>
+  </row>
+  <row>
+    <index>68</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup transforms a complex HTML document into a complex tree
+of Python objects. But you'll only ever have to deal with about four
+kinds of objects: Tag, NavigableString, BeautifulSoup,
+and Comment. These objects represent the HTML elements
+that comprise the page.</all_paragraphs>
+  </row>
+  <row>
+    <index>69</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A Tag object corresponds to an XML or HTML tag in the original document.</all_paragraphs>
+  </row>
+  <row>
+    <index>70</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tags have a lot of attributes and methods, and I'll cover most of them
+in Navigating the tree and Searching the tree. For now, the most
+important methods of a tag are for accessing its name and attributes.</all_paragraphs>
+  </row>
+  <row>
+    <index>71</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Every tag has a name:</all_paragraphs>
+  </row>
+  <row>
+    <index>72</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you change a tag's name, the change will be reflected in any
+markup generated by Beautiful Soup down the line:</all_paragraphs>
+  </row>
+  <row>
+    <index>73</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>An HTML or XML tag may have any number of attributes. The tag &lt;b
+id="boldest"&gt; has an attribute "id" whose value is
+"boldest". You can access a tag's attributes by treating the tag like
+a dictionary:</all_paragraphs>
+  </row>
+  <row>
+    <index>74</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can access the dictionary of attributes directly as .attrs:</all_paragraphs>
+  </row>
+  <row>
+    <index>75</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can add, remove, and modify a tag's attributes. Again, this is
+done by treating the tag as a dictionary:</all_paragraphs>
+  </row>
+  <row>
+    <index>76</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>HTML 4 defines a few attributes that can have multiple values. HTML 5
+removes a couple of them, but defines a few more. The most common
+multi-valued attribute is class (that is, a tag can have more than
+one CSS class). Others include rel, rev, accept-charset,
+headers, and accesskey. By default, Beautiful Soup stores the value(s)
+of a multi-valued attribute as a list:</all_paragraphs>
+  </row>
+  <row>
+    <index>77</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>When you turn a tag back into a string, the values of any multi-valued
+attributes are consolidated:</all_paragraphs>
+  </row>
+  <row>
+    <index>78</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If an attribute looks like it has more than one value, but it's not
+a multi-valued attribute as defined by any version of the HTML
+standard, Beautiful Soup stores it as a simple string:</all_paragraphs>
+  </row>
+  <row>
+    <index>79</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can force all attributes to be stored as strings by passing
+multi_valued_attributes=None as a keyword argument into the
+BeautifulSoup constructor:</all_paragraphs>
+  </row>
+  <row>
+    <index>80</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use get_attribute_list to always return the value in a list
+container, whether it's a string or multi-valued attribute value:</all_paragraphs>
+  </row>
+  <row>
+    <index>81</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you parse a document as XML, there are no multi-valued attributes:</all_paragraphs>
+  </row>
+  <row>
+    <index>82</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Again, you can configure this using the multi_valued_attributes argument:</all_paragraphs>
+  </row>
+  <row>
+    <index>83</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You probably won't need to do this, but if you do, use the defaults as
+a guide. They implement the rules described in the HTML specification:</all_paragraphs>
+  </row>
+  <row>
+    <index>84</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A tag can contain strings as pieces of text. Beautiful Soup
+uses the NavigableString class to contain these pieces of text:</all_paragraphs>
+  </row>
+  <row>
+    <index>85</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString is just like a Python Unicode string, except
+that it also supports some of the features described in Navigating
+the tree and Searching the tree. You can convert a
+NavigableString to a Unicode string with str:</all_paragraphs>
+  </row>
+  <row>
+    <index>86</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can't edit a string in place, but you can replace one string with
+another, using replace_with():</all_paragraphs>
+  </row>
+  <row>
+    <index>87</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>NavigableString supports most of the features described in
+Navigating the tree and Searching the tree, but not all of
+them. In particular, since a string can't contain anything (the way a
+tag may contain a string or another tag), strings don't support the
+.contents or .string attributes, or the find() method.</all_paragraphs>
+  </row>
+  <row>
+    <index>88</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you want to use a NavigableString outside of Beautiful Soup,
+you should call unicode() on it to turn it into a normal Python
+Unicode string. If you don't, your string will carry around a
+reference to the entire Beautiful Soup parse tree, even when you're
+done using Beautiful Soup. This is a big waste of memory.</all_paragraphs>
+  </row>
+  <row>
+    <index>89</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The BeautifulSoup object represents the parsed document as a
+whole. For most purposes, you can treat it as a Tag
+object. This means it supports most of the methods described in
+Navigating the tree and Searching the tree.</all_paragraphs>
+  </row>
+  <row>
+    <index>90</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can also pass a BeautifulSoup object into one of the methods
+defined in Modifying the tree, just as you would a Tag. This
+lets you do things like combine two parsed documents:</all_paragraphs>
+  </row>
+  <row>
+    <index>91</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Since the BeautifulSoup object doesn't correspond to an actual
+HTML or XML tag, it has no name and no attributes. But sometimes it's
+useful to reference its .name (such as when writing code that works
+with both Tag and BeautifulSoup objects),
+so it's been given the special .name "[document]":</all_paragraphs>
+  </row>
+  <row>
+    <index>92</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag, NavigableString, and
+BeautifulSoup cover almost everything you'll see in an
+HTML or XML file, but there are a few leftover bits. The main one
+you'll probably encounter is the Comment.</all_paragraphs>
+  </row>
+  <row>
+    <index>93</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The Comment object is just a special type of NavigableString:</all_paragraphs>
+  </row>
+  <row>
+    <index>94</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>But when it appears as part of an HTML document, a Comment is
+displayed with special formatting:</all_paragraphs>
+  </row>
+  <row>
+    <index>95</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup defines a few NavigableString subclasses to
+contain strings found inside specific HTML tags. This makes it easier
+to pick out the main body of the page, by ignoring strings that
+probably represent programming directives found within the
+page. (These classes are new in Beautiful Soup 4.9.0, and the
+html5lib parser doesn't use them.)</all_paragraphs>
+  </row>
+  <row>
+    <index>96</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass that represents embedded CSS
+stylesheets; that is, any strings found inside a &lt;style&gt; tag
+during document parsing.</all_paragraphs>
+  </row>
+  <row>
+    <index>97</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass that represents embedded
+Javascript; that is, any strings found inside a &lt;script&gt; tag
+during document parsing.</all_paragraphs>
+  </row>
+  <row>
+    <index>98</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass that represents embedded HTML
+templates; that is, any strings found inside a &lt;template&gt; tag during
+document parsing.</all_paragraphs>
+  </row>
+  <row>
+    <index>99</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup defines some NavigableString classes for
+holding special types of strings that can be found in XML
+documents. Like Comment, these classes are subclasses of
+NavigableString that add something extra to the string on
+output.</all_paragraphs>
+  </row>
+  <row>
+    <index>100</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass representing the declaration at the beginning of
+an XML document.</all_paragraphs>
+  </row>
+  <row>
+    <index>101</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass representing the document type
+declaration which may
+be found near the beginning of an XML document.</all_paragraphs>
+  </row>
+  <row>
+    <index>102</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass that represents a CData section.</all_paragraphs>
+  </row>
+  <row>
+    <index>103</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A NavigableString subclass that represents the contents
+of an XML processing instruction.</all_paragraphs>
+  </row>
+  <row>
+    <index>104</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's the "Three sisters" HTML document again:</all_paragraphs>
+  </row>
+  <row>
+    <index>105</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>I'll use this as an example to show you how to move from one part of
+a document to another.</all_paragraphs>
+  </row>
+  <row>
+    <index>106</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tags may contain strings and more tags. These elements are the tag's
+children. Beautiful Soup provides a lot of different attributes for
+navigating and iterating over a tag's children.</all_paragraphs>
+  </row>
+  <row>
+    <index>107</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Note that Beautiful Soup strings don't support any of these
+attributes, because a string can't have children.</all_paragraphs>
+  </row>
+  <row>
+    <index>108</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The simplest way to navigate the parse tree is to find a tag by name. To
+do this, you can use the find() method:</all_paragraphs>
+  </row>
+  <row>
+    <index>109</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>For convenience, just saying the name of the tag you want is equivalent
+to find() (if no built-in attribute has that name). If you want the
+&lt;head&gt; tag, just say soup.head:</all_paragraphs>
+  </row>
+  <row>
+    <index>110</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use this trick again and again to zoom in on a certain part
+of the parse tree. This code gets the first &lt;b&gt; tag beneath the &lt;body&gt; tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>111</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>find() (and its convenience equivalent) gives you only the first tag
+by that name:</all_paragraphs>
+  </row>
+  <row>
+    <index>112</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you need to get all the &lt;a&gt; tags, you can use find_all():</all_paragraphs>
+  </row>
+  <row>
+    <index>113</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>For more complicated tasks, such as pattern-matching and filtering, you can
+use the methods described in Searching the tree.</all_paragraphs>
+  </row>
+  <row>
+    <index>114</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A tag's children are available in a list called .contents:</all_paragraphs>
+  </row>
+  <row>
+    <index>115</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The BeautifulSoup object itself has children. In this case, the
+&lt;html&gt; tag is the child of the BeautifulSoup object.:</all_paragraphs>
+  </row>
+  <row>
+    <index>116</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A string does not have .contents, because it can't contain
+anything:</all_paragraphs>
+  </row>
+  <row>
+    <index>117</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Instead of getting them as a list, you can iterate over a tag's
+children using the .children generator:</all_paragraphs>
+  </row>
+  <row>
+    <index>118</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you want to modify a tag's children, use the methods described in
+Modifying the tree. Don't modify the the .contents list
+directly: that can lead to problems that are subtle and difficult to
+spot.</all_paragraphs>
+  </row>
+  <row>
+    <index>119</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The .contents and .children attributes consider only a tag's
+direct children. For instance, the &lt;head&gt; tag has a single direct
+child—the &lt;title&gt; tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>120</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>But the &lt;title&gt; tag itself has a child: the string "The Dormouse's
+story". There's a sense in which that string is also a child of the
+&lt;head&gt; tag. The .descendants attribute lets you iterate over all
+of a tag's children, recursively: its direct children, the children of
+its direct children, and so on:</all_paragraphs>
+  </row>
+  <row>
+    <index>121</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The &lt;head&gt; tag has only one child, but it has two descendants: the
+&lt;title&gt; tag and the &lt;title&gt; tag's child. The BeautifulSoup object
+only has one direct child (the &lt;html&gt; tag), but it has a whole lot of
+descendants:</all_paragraphs>
+  </row>
+  <row>
+    <index>122</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If a tag has only one child, and that child is a NavigableString,
+the child is made available as .string:</all_paragraphs>
+  </row>
+  <row>
+    <index>123</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If a tag's only child is another tag, and that tag has a
+.string, then the parent tag is considered to have the same
+.string as its child:</all_paragraphs>
+  </row>
+  <row>
+    <index>124</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If a tag contains more than one thing, then it's not clear what
+.string should refer to, so .string is defined to be
+None:</all_paragraphs>
+  </row>
+  <row>
+    <index>125</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If there's more than one thing inside a tag, you can still look at
+just the strings. Use the .strings generator to see all descendant
+strings:</all_paragraphs>
+  </row>
+  <row>
+    <index>126</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Newlines and spaces that separate tags are also strings. You can remove extra
+whitespace by using the .stripped_strings generator instead:</all_paragraphs>
+  </row>
+  <row>
+    <index>127</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here, strings consisting entirely of whitespace are ignored, and
+whitespace at the beginning and end of strings is removed.</all_paragraphs>
+  </row>
+  <row>
+    <index>128</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Continuing the "family tree" analogy, every tag and every string has a
+parent: the tag that contains it.</all_paragraphs>
+  </row>
+  <row>
+    <index>129</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can access an element's parent with the .parent attribute. In
+the example "three sisters" document, the &lt;head&gt; tag is the parent
+of the &lt;title&gt; tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>130</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The title string itself has a parent: the &lt;title&gt; tag that contains
+it:</all_paragraphs>
+  </row>
+  <row>
+    <index>131</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The parent of a top-level tag like &lt;html&gt; is the BeautifulSoup object
+itself:</all_paragraphs>
+  </row>
+  <row>
+    <index>132</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>And the .parent of a BeautifulSoup object is defined as None:</all_paragraphs>
+  </row>
+  <row>
+    <index>133</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can iterate over all of an element's parents with
+.parents. This example uses .parents to travel from an &lt;a&gt; tag
+buried deep within the document, to the very top of the document:</all_paragraphs>
+  </row>
+  <row>
+    <index>134</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The .self_and_parents generator is a variant of .parents which
+gives you the entire ancestry of an element, including the element
+itself:</all_paragraphs>
+  </row>
+  <row>
+    <index>135</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Consider a simple document like this:</all_paragraphs>
+  </row>
+  <row>
+    <index>136</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The &lt;b&gt; tag and the &lt;c&gt; tag are at the same level: they're both direct
+children of the same tag. We call them siblings. When a document is
+pretty-printed, siblings show up at the same indentation level. You
+can also use this relationship in the code you write.</all_paragraphs>
+  </row>
+  <row>
+    <index>137</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use .next_sibling and .previous_sibling to navigate
+between page elements that are on the same level of the parse tree:</all_paragraphs>
+  </row>
+  <row>
+    <index>138</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The &lt;b&gt; tag has a .next_sibling, but no .previous_sibling,
+because there's nothing before the &lt;b&gt; tag on the same level of the
+tree. For the same reason, the &lt;c&gt; tag has a .previous_sibling
+but no .next_sibling:</all_paragraphs>
+  </row>
+  <row>
+    <index>139</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The strings "text1" and "text2" are not siblings, because they don't
+have the same parent:</all_paragraphs>
+  </row>
+  <row>
+    <index>140</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>In real documents, the .next_sibling or .previous_sibling of a
+tag will usually be a string containing whitespace. Going back to the
+"three sisters" document:</all_paragraphs>
+  </row>
+  <row>
+    <index>141</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You might think that the .next_sibling of the first &lt;a&gt; tag would
+be the second &lt;a&gt; tag. But actually, it's a string: the comma and
+newline that separate the first &lt;a&gt; tag from the second:</all_paragraphs>
+  </row>
+  <row>
+    <index>142</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The second &lt;a&gt; tag is then the .next_sibling of the comma string:</all_paragraphs>
+  </row>
+  <row>
+    <index>143</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can iterate over a tag's siblings with .next_siblings or
+.previous_siblings:</all_paragraphs>
+  </row>
+  <row>
+    <index>144</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(If the argument syntax to find tags by their attribute value is unfamiliar,
+don't worry; this is covered later in The keyword arguments.)</all_paragraphs>
+  </row>
+  <row>
+    <index>145</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Take a look at the beginning of the "three sisters" document:</all_paragraphs>
+  </row>
+  <row>
+    <index>146</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>An HTML parser takes this string of characters and turns it into a
+series of events: "open an &lt;html&gt; tag", "open a &lt;head&gt; tag", "open a
+&lt;title&gt; tag", "add a string", "close the &lt;title&gt; tag", "open a &lt;p&gt;
+tag", and so on. The order in which the opening tags and strings are
+encountered is called document order. Beautiful Soup offers tools for
+searching a document's elements in document order.</all_paragraphs>
+  </row>
+  <row>
+    <index>147</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The .next_element attribute of a string or tag points to whatever
+was parsed immediately after the opening of the current tag or after
+the current string. It might be the same as .next_sibling, but it's
+usually drastically different.</all_paragraphs>
+  </row>
+  <row>
+    <index>148</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's the final &lt;a&gt; tag in the "three sisters" document. Its
+.next_sibling is a string: the conclusion of the sentence that was
+interrupted by the start of the &lt;a&gt; tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>149</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>But the .next_element of that &lt;a&gt; tag, the thing that was parsed
+immediately after the &lt;a&gt; tag, is not the rest of that sentence:
+it's the string "Tillie" inside it:</all_paragraphs>
+  </row>
+  <row>
+    <index>150</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>That's because in the original markup, the word "Tillie" appeared
+before that semicolon. The parser encountered an &lt;a&gt; tag, then the
+word "Tillie", then the closing &lt;/a&gt; tag, then the semicolon and rest of
+the sentence. The semicolon is on the same level as the &lt;a&gt; tag, but the
+word "Tillie" was encountered first.</all_paragraphs>
+  </row>
+  <row>
+    <index>151</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The .previous_element attribute is the exact opposite of
+.next_element. It points to the opening tag or string that was
+parsed immediately before this one:</all_paragraphs>
+  </row>
+  <row>
+    <index>152</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You should get the idea by now. You can use these iterators to move
+forward or backward in the document as it was parsed:</all_paragraphs>
+  </row>
+  <row>
+    <index>153</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup defines a lot of methods for searching the parse tree,
+but they're all very similar. I'm going to spend a lot of time explaining
+the two most popular methods: find() and find_all(). The other
+methods take almost exactly the same arguments, so I'll just cover
+them briefly.</all_paragraphs>
+  </row>
+  <row>
+    <index>154</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Once again, I'll be using the "three sisters" document as an example:</all_paragraphs>
+  </row>
+  <row>
+    <index>155</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>By passing in a filter to a method like find_all(), you can
+zoom in on the parts of the document you're interested in.</all_paragraphs>
+  </row>
+  <row>
+    <index>156</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Before talking in detail about find_all() and similar methods, I
+want to show examples of different filters you can pass into these
+methods. These filters show up again and again, throughout the
+search API. You can use them to filter based on a tag's name,
+on its attributes, on the text of a string, or on some combination of
+these.</all_paragraphs>
+  </row>
+  <row>
+    <index>157</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The simplest filter is a string. Pass a string to a search method and
+Beautiful Soup will perform a tag-name match against that exact string.
+This code finds all the &lt;b&gt; tags in the document:</all_paragraphs>
+  </row>
+  <row>
+    <index>158</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in a byte string, Beautiful Soup will assume the string is
+encoded as UTF-8. You can avoid this by passing in a Unicode string instead.</all_paragraphs>
+  </row>
+  <row>
+    <index>159</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in a regular expression object, Beautiful Soup will filter
+against that regular expression using its search() method. This code
+finds all the tags whose names start with the letter "b"; in this
+case, the &lt;body&gt; tag and the &lt;b&gt; tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>160</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This code finds all the tags whose names contain the letter 't':</all_paragraphs>
+  </row>
+  <row>
+    <index>161</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The value True matches every tag it can. This code finds all
+the tags in the document, but none of the text strings:</all_paragraphs>
+  </row>
+  <row>
+    <index>162</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If none of the other matches work for you, define a function that
+takes an element as its only argument. The function should return
+True if the argument matches, and False otherwise.</all_paragraphs>
+  </row>
+  <row>
+    <index>163</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's a function that returns True if a tag defines the "class"
+attribute but doesn't define the "id" attribute:</all_paragraphs>
+  </row>
+  <row>
+    <index>164</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Pass this function into find_all() and you'll pick up all the &lt;p&gt;
+tags:</all_paragraphs>
+  </row>
+  <row>
+    <index>165</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This function picks up only the &lt;p&gt; tags. It doesn't pick up the &lt;a&gt;
+tags, because those tags define both "class" and "id". It doesn't pick
+up tags like &lt;html&gt; and &lt;title&gt;, because those tags don't define
+"class".</all_paragraphs>
+  </row>
+  <row>
+    <index>166</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The function can be as complicated as you need it to be. Here's a
+function that returns True if a tag is surrounded by string
+objects:</all_paragraphs>
+  </row>
+  <row>
+    <index>167</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in a list, Beautiful Soup will look for a match against
+any string, regular expression, or function in that list. This
+code finds all the &lt;a&gt; tags and all the &lt;b&gt; tags:</all_paragraphs>
+  </row>
+  <row>
+    <index>168</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Now we're ready to look at the search methods in detail.</all_paragraphs>
+  </row>
+  <row>
+    <index>169</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_all(name, attrs, recursive, string, limit, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>170</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The find_all() method looks through a tag's descendants and
+retrieves all descendants that match your filters. I gave several
+examples in Kinds of filters, but here are a few more:</all_paragraphs>
+  </row>
+  <row>
+    <index>171</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Some of these should look familiar, but others are new. What does it
+mean to pass in a value for string, or id? Why does
+find_all("p", "title") find a &lt;p&gt; tag with the CSS class "title"?
+Let's look at the arguments to find_all().</all_paragraphs>
+  </row>
+  <row>
+    <index>172</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Pass in a value for name and you'll tell Beautiful Soup to only
+consider tags with certain names. Text strings will be ignored, as
+will tags whose names that don't match.</all_paragraphs>
+  </row>
+  <row>
+    <index>173</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This is the simplest usage:</all_paragraphs>
+  </row>
+  <row>
+    <index>174</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Recall from Kinds of filters that the value to name can be a
+string, a regular expression, a list, a function, or the value
+True.</all_paragraphs>
+  </row>
+  <row>
+    <index>175</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Any keyword argument that's not recognized will be turned into a filter
+that matches tags by their attributes.</all_paragraphs>
+  </row>
+  <row>
+    <index>176</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in a value for an argument called id, Beautiful Soup will
+filter against each tag's 'id' attribute value:</all_paragraphs>
+  </row>
+  <row>
+    <index>177</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Just as with tags, you can filter an attribute based on a string,
+a regular expression, a list, a function, or the value True.</all_paragraphs>
+  </row>
+  <row>
+    <index>178</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in a regular expression object for href, Beautiful Soup will
+pattern-match against each tag's 'href' attribute value:</all_paragraphs>
+  </row>
+  <row>
+    <index>179</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The value True matches every tag that defines the attribute. This code
+finds all tags with an id attribute:</all_paragraphs>
+  </row>
+  <row>
+    <index>180</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>For more complex matches, you can define a function that takes an attribute
+value as its only argument. The function should return True if the value
+matches, and False otherwise.</all_paragraphs>
+  </row>
+  <row>
+    <index>181</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's a function that finds all a tags whose href attribute does not
+match a regular expression:</all_paragraphs>
+  </row>
+  <row>
+    <index>182</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in a list for an argument, Beautiful Soup will look for an
+attribute-value match against any string, regular expression, or function in
+that list. This code finds the first and last link:</all_paragraphs>
+  </row>
+  <row>
+    <index>183</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can filter against multiple attributes at once by passing multiple
+keyword arguments:</all_paragraphs>
+  </row>
+  <row>
+    <index>184</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Some attributes, like the data-* attributes in HTML 5, have names that
+can't be used as the names of keyword arguments:</all_paragraphs>
+  </row>
+  <row>
+    <index>185</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use these attributes in searches by putting them into a
+dictionary and passing the dictionary into find_all() as the
+attrs argument:</all_paragraphs>
+  </row>
+  <row>
+    <index>186</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Similarly, you can't use a keyword argument to search for HTML's 'name' attribute,
+because Beautiful Soup uses the name argument to contain the name
+of the tag itself. Instead, you can give a value to 'name' in the
+attrs argument:</all_paragraphs>
+  </row>
+  <row>
+    <index>187</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>It's very useful to search for a tag that has a certain CSS class, but
+the name of the CSS attribute, "class", is a reserved word in
+Python. Using class as a keyword argument will give you a syntax
+error. As of Beautiful Soup 4.1.2, you can search by CSS class using
+the keyword argument class_:</all_paragraphs>
+  </row>
+  <row>
+    <index>188</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>As with any keyword argument, you can pass class_ a string, a regular
+expression, a function, or True:</all_paragraphs>
+  </row>
+  <row>
+    <index>189</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Remember that a single tag can have multiple
+values for its "class" attribute. When you search for a tag that
+matches a certain CSS class, you're matching against any of its CSS
+classes:</all_paragraphs>
+  </row>
+  <row>
+    <index>190</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can also search for the exact string value of the class attribute:</all_paragraphs>
+  </row>
+  <row>
+    <index>191</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>But searching for variants of the string value won't work:</all_paragraphs>
+  </row>
+  <row>
+    <index>192</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>In older versions of Beautiful Soup, which don't have the class_
+shortcut, you can use the attrs argument trick mentioned above.
+Create a dictionary whose value for "class" is the string (or regular
+expression, or whatever) you want to search for:</all_paragraphs>
+  </row>
+  <row>
+    <index>193</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>To search for tags that match two or more CSS classes at once, use the
+Tag.select() CSS selector method described here:</all_paragraphs>
+  </row>
+  <row>
+    <index>194</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>With the string argument, you can search for strings instead of tags. As
+with name and attribute keyword arguments, you can pass in a string, a
+regular expression, a function, a list, or the value True.
+Here are some examples:</all_paragraphs>
+  </row>
+  <row>
+    <index>195</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you use the string argument in a tag search, Beautiful Soup will find
+all tags whose .string matches your value for string. This code finds
+the &lt;a&gt; tags whose .string is "Elsie":</all_paragraphs>
+  </row>
+  <row>
+    <index>196</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The string argument is new in Beautiful Soup 4.4.0. In earlier
+versions it was called text:</all_paragraphs>
+  </row>
+  <row>
+    <index>197</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>find_all() returns all the tags and strings that match your
+filters. This can take a while if the document is large. If you don't
+need all the results, you can pass in a number for limit. This
+works just like the LIMIT keyword in SQL. It tells Beautiful Soup to
+stop gathering results after it's found a certain number.</all_paragraphs>
+  </row>
+  <row>
+    <index>198</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>There are three links in the "three sisters" document, but this code
+only finds the first two:</all_paragraphs>
+  </row>
+  <row>
+    <index>199</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>By default, mytag.find_all() will examine all the descendants of mytag:
+its children, its children's children, and so on. To consider only direct
+children, you can pass in recursive=False. See the difference here:</all_paragraphs>
+  </row>
+  <row>
+    <index>200</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's that part of the document:</all_paragraphs>
+  </row>
+  <row>
+    <index>201</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The &lt;title&gt; tag is beneath the &lt;html&gt; tag, but it's not directly
+beneath the &lt;html&gt; tag: the &lt;head&gt; tag is in the way. Beautiful Soup
+finds the &lt;title&gt; tag when it's allowed to look at all descendants of
+the &lt;html&gt; tag, but when recursive=False restricts it to the
+&lt;html&gt; tag's immediate children, it finds nothing.</all_paragraphs>
+  </row>
+  <row>
+    <index>202</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup offers a lot of tree-searching methods (covered below),
+and they mostly take the same arguments as find_all(): name,
+attrs, string, limit, and attribute keyword arguments. But the
+recursive argument is specific to the find_all() and find() methods.
+Passing recursive=False into a method like find_parents() wouldn't be
+very useful.</all_paragraphs>
+  </row>
+  <row>
+    <index>203</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>For convenience, calling a BeautifulSoup object or
+Tag object as a function is equivalent to calling
+find_all() (if no built-in method has the name of the tag you're
+looking for). These two lines of code are equivalent:</all_paragraphs>
+  </row>
+  <row>
+    <index>204</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>These two lines are also equivalent:</all_paragraphs>
+  </row>
+  <row>
+    <index>205</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find(name, attrs, recursive, string, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>206</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The find_all() method scans the entire document looking for
+results, but sometimes you only want to find one result. If you know a
+document has only one &lt;body&gt; tag, it's a waste of time to scan the
+entire document looking for more. Rather than passing in limit=1
+every time you call find_all, you can use the find()
+method. These two lines of code are nearly equivalent:</all_paragraphs>
+  </row>
+  <row>
+    <index>207</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The only difference is that find_all() returns a list containing
+the single result, and find() just returns the result.</all_paragraphs>
+  </row>
+  <row>
+    <index>208</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If find_all() can't find anything, it returns an empty list. If
+find() can't find anything, it returns None:</all_paragraphs>
+  </row>
+  <row>
+    <index>209</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Remember the soup.head.title trick from Navigating using tag
+names? That trick works by repeatedly calling find():</all_paragraphs>
+  </row>
+  <row>
+    <index>210</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_parents(name, attrs, string, limit, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>211</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_parent(name, attrs, string, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>212</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>I spent a lot of time above covering find_all() and
+find(). The Beautiful Soup API defines ten other methods for
+searching the tree, but don't be afraid. Five of these methods are
+basically the same as find_all(), and the other five are basically
+the same as find(). The only differences are in how they move from
+one part of the tree to another.</all_paragraphs>
+  </row>
+  <row>
+    <index>213</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>First let's consider find_parents() and
+find_parent(). Remember that find_all() and find() work
+their way down the tree, looking at tag's descendants. These methods
+do the opposite: they work their way up the tree, looking at a tag's
+(or a string's) parents. Let's try them out, starting from a string
+buried deep in the "three daughters" document:</all_paragraphs>
+  </row>
+  <row>
+    <index>214</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>One of the three &lt;a&gt; tags is the direct parent of the string in
+question, so our search finds it. One of the three &lt;p&gt; tags is an
+indirect parent (ancestor) of the string, and our search finds that as
+well. There's a &lt;p&gt; tag with the CSS class "title" somewhere in the
+document, but it's not one of this string's parents, so we can't find
+it with find_parents().</all_paragraphs>
+  </row>
+  <row>
+    <index>215</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You may have noticed a similarity between find_parent() and
+find_parents(), and the .parent and .parents attributes
+mentioned earlier. These search methods actually use the .parents
+attribute to iterate through all parents (unfiltered), checking each one
+against the provided filter to see if it matches.</all_paragraphs>
+  </row>
+  <row>
+    <index>216</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_next_siblings(name, attrs, string, limit, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>217</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_next_sibling(name, attrs, string, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>218</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>These methods use .next_siblings to
+iterate over the rest of an element's siblings in the tree. The
+find_next_siblings() method returns all the siblings that match,
+and find_next_sibling() returns only the first one:</all_paragraphs>
+  </row>
+  <row>
+    <index>219</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_previous_siblings(name, attrs, string, limit, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>220</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_previous_sibling(name, attrs, string, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>221</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>These methods use .previous_siblings to iterate over an element's
+siblings that precede it in the tree. The find_previous_siblings()
+method returns all the siblings that match, and
+find_previous_sibling() returns only the first one:</all_paragraphs>
+  </row>
+  <row>
+    <index>222</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_all_next(name, attrs, string, limit, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>223</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_next(name, attrs, string, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>224</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>These methods use .next_elements to
+iterate over whatever tags and strings that come after it in the
+document. The find_all_next() method returns all matches, and
+find_next() returns only the first match:</all_paragraphs>
+  </row>
+  <row>
+    <index>225</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>In the first example, the string "Elsie" showed up, even though it was
+contained within the &lt;a&gt; tag we started from. In the second example,
+the last &lt;p&gt; tag in the document showed up, even though it's not in
+the same part of the tree as the &lt;a&gt; tag we started from. For these
+methods, all that matters is that an element matches the filter and
+it shows up later in the document in document order.</all_paragraphs>
+  </row>
+  <row>
+    <index>226</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_all_previous(name, attrs, string, limit, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>227</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Method signature: find_previous(name, attrs, string, **kwargs)</all_paragraphs>
+  </row>
+  <row>
+    <index>228</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>These methods use .previous_elements to
+iterate over the tags and strings that came before it in the
+document. The find_all_previous() method returns all matches, and
+find_previous() only returns the first match:</all_paragraphs>
+  </row>
+  <row>
+    <index>229</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The call to find_all_previous("p") found the first paragraph in
+the document (the one with class="title"), but it also finds the
+second paragraph, the &lt;p&gt; tag that contains the &lt;a&gt; tag we started
+with. This shouldn't be too surprising: we're looking at all the tags
+that show up earlier in the document in document order than the one we started with. A
+&lt;p&gt; tag that contains an &lt;a&gt; tag must have shown up before the &lt;a&gt;
+tag it contains.</all_paragraphs>
+  </row>
+  <row>
+    <index>230</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>BeautifulSoup and Tag objects support CSS selectors through
+their .css property. The actual selector implementation is handled
+by the Soup Sieve
+package, available on PyPI as soupsieve. If you installed
+Beautiful Soup through pip, Soup Sieve was installed at the same
+time, so you don't have to do anything extra.</all_paragraphs>
+  </row>
+  <row>
+    <index>231</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The Soup Sieve documentation lists all the currently supported CSS
+selectors, but
+here are some of the basics. You can find tags by name:</all_paragraphs>
+  </row>
+  <row>
+    <index>232</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find tags by ID:</all_paragraphs>
+  </row>
+  <row>
+    <index>233</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find tags contained anywhere within other tags:</all_paragraphs>
+  </row>
+  <row>
+    <index>234</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find tags directly within other tags:</all_paragraphs>
+  </row>
+  <row>
+    <index>235</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find all matching next siblings of tags:</all_paragraphs>
+  </row>
+  <row>
+    <index>236</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find the next sibling tag (but only if it matches):</all_paragraphs>
+  </row>
+  <row>
+    <index>237</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find tags by CSS class:</all_paragraphs>
+  </row>
+  <row>
+    <index>238</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find tags that match any selector from a list of selectors:</all_paragraphs>
+  </row>
+  <row>
+    <index>239</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Test for the existence of an attribute:</all_paragraphs>
+  </row>
+  <row>
+    <index>240</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Find tags by attribute value:</all_paragraphs>
+  </row>
+  <row>
+    <index>241</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>There's also a method called select_one(), which finds only the
+first tag that matches a selector:</all_paragraphs>
+  </row>
+  <row>
+    <index>242</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>As a convenience, you can call select() and select_one() can
+directly on the BeautifulSoup or Tag object, omitting the
+.css property:</all_paragraphs>
+  </row>
+  <row>
+    <index>243</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>CSS selector support is a convenience for people who already know the
+CSS selector syntax. You can do all of this with the Beautiful Soup
+API. If CSS selectors are all you need, you should skip Beautiful Soup
+altogether and parse the document with lxml: it's a lot
+faster. But Soup Sieve lets you combine CSS selectors with the
+Beautiful Soup API.</all_paragraphs>
+  </row>
+  <row>
+    <index>244</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Soup Sieve offers a substantial API beyond the select() and
+select_one() methods, and you can access most of that API through
+the .css attribute of Tag or BeautifulSoup. What follows
+is just a list of the supported methods; see the Soup Sieve
+documentation for full
+documentation.</all_paragraphs>
+  </row>
+  <row>
+    <index>245</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The iselect() method works the same as select(), but it
+returns a generator instead of a list:</all_paragraphs>
+  </row>
+  <row>
+    <index>246</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The closest() method returns the nearest parent of a given Tag
+that matches a CSS selector, similar to Beautiful Soup's
+find_parent() method:</all_paragraphs>
+  </row>
+  <row>
+    <index>247</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The match() method returns a Boolean depending on whether or not a
+specific Tag matches a selector:</all_paragraphs>
+  </row>
+  <row>
+    <index>248</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The filter() method returns the subset of a tag's direct children
+that match a selector:</all_paragraphs>
+  </row>
+  <row>
+    <index>249</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The escape() method escapes CSS identifiers that would otherwise
+be invalid:</all_paragraphs>
+  </row>
+  <row>
+    <index>250</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you've parsed XML that defines namespaces, you can use them in CSS
+selectors.:</all_paragraphs>
+  </row>
+  <row>
+    <index>251</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup tries to use namespace prefixes that make sense based
+on what it saw while parsing the document, but you can always provide
+your own dictionary of abbreviations:</all_paragraphs>
+  </row>
+  <row>
+    <index>252</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The .css property was added in Beautiful Soup 4.12.0. Prior to this,
+only the .select() and .select_one() convenience methods were
+supported.</all_paragraphs>
+  </row>
+  <row>
+    <index>253</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The Soup Sieve integration was added in Beautiful Soup 4.7.0. Earlier
+versions had the .select() method, but only the most commonly-used
+CSS selectors were supported.</all_paragraphs>
+  </row>
+  <row>
+    <index>254</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup's main strength is in searching the parse tree, but you
+can also modify the tree and write your changes as a new HTML or XML
+document.</all_paragraphs>
+  </row>
+  <row>
+    <index>255</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>I covered this earlier, in Tag.attrs, but it bears repeating. You
+can rename a tag, change the values of its attributes, add new
+attributes, and delete attributes:</all_paragraphs>
+  </row>
+  <row>
+    <index>256</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you set a tag's .string attribute to a new string, the tag's contents are
+replaced with that string:</all_paragraphs>
+  </row>
+  <row>
+    <index>257</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Be careful: if the tag contained other tags, they and all their
+contents will be destroyed.</all_paragraphs>
+  </row>
+  <row>
+    <index>258</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can add to a tag's contents with Tag.append(). It works just
+like calling .append() on a Python list:</all_paragraphs>
+  </row>
+  <row>
+    <index>259</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.append() returns the newly appended element.</all_paragraphs>
+  </row>
+  <row>
+    <index>260</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Starting in Beautiful Soup 4.7.0, Tag also supports a method
+called .extend(), which adds every element of a list to a Tag,
+in order:</all_paragraphs>
+  </row>
+  <row>
+    <index>261</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.extend() returns the list of appended elements.</all_paragraphs>
+  </row>
+  <row>
+    <index>262</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you need to add a string to a document, no problem—you can pass a
+Python string in to append(), or you can call the NavigableString
+constructor:</all_paragraphs>
+  </row>
+  <row>
+    <index>263</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you want to create a comment or some other subclass of
+NavigableString, just call the constructor:</all_paragraphs>
+  </row>
+  <row>
+    <index>264</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(This is a new feature in Beautiful Soup 4.4.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>265</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>What if you need to create a whole new tag? The best solution is to
+call the factory method BeautifulSoup.new_tag():</all_paragraphs>
+  </row>
+  <row>
+    <index>266</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Only the first argument, the tag name, is required.</all_paragraphs>
+  </row>
+  <row>
+    <index>267</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(The ``string`` argument to ``new_tag`` was introduced in Beautiful Soup 4.13.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>268</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Because insertion methods return the newly inserted element, you
+can create, insert, and obtain an element in one step:</all_paragraphs>
+  </row>
+  <row>
+    <index>269</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.insert() is just like Tag.append(), except the new element
+doesn't necessarily go at the end of its parent's
+.contents. It will be inserted at whatever numeric position you
+say, similar to .insert() on a Python list:</all_paragraphs>
+  </row>
+  <row>
+    <index>270</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can pass more than one element into Tag.insert(). All the
+elements will be inserted, starting at the numeric position you
+provide.</all_paragraphs>
+  </row>
+  <row>
+    <index>271</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.insert() returns the list of newly inserted elements.</all_paragraphs>
+  </row>
+  <row>
+    <index>272</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The insert_before() method inserts tags or strings immediately
+before something else in the parse tree:</all_paragraphs>
+  </row>
+  <row>
+    <index>273</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The insert_after() method inserts tags or strings immediately
+after something else in the parse tree:</all_paragraphs>
+  </row>
+  <row>
+    <index>274</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Both methods return the list of newly inserted elements.</all_paragraphs>
+  </row>
+  <row>
+    <index>275</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.clear() removes the contents of a tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>276</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>PageElement.extract() removes a tag or string from the tree. It
+returns the tag or string that was extracted:</all_paragraphs>
+  </row>
+  <row>
+    <index>277</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>At this point you effectively have two parse trees: one rooted at the
+BeautifulSoup object you used to parse the document, and one rooted
+at the tag that was extracted. You can go on to call extract() on
+a child of the element you extracted:</all_paragraphs>
+  </row>
+  <row>
+    <index>278</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.decompose() removes a tag from the tree, then completely
+destroys it and its contents:</all_paragraphs>
+  </row>
+  <row>
+    <index>279</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The behavior of a decomposed Tag or NavigableString is not
+defined and you should not use it for anything. If you're not sure
+whether something has been decomposed, you can check its
+.decomposed property (new in Beautiful Soup 4.9.0):</all_paragraphs>
+  </row>
+  <row>
+    <index>280</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>PageElement.replace_with() extracts a tag or string from the tree,
+then replaces it with one or more tags or strings of your choice:</all_paragraphs>
+  </row>
+  <row>
+    <index>281</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>replace_with() returns the tag or string that got replaced, so
+that you can examine it or add it back to another part of the tree.</all_paragraphs>
+  </row>
+  <row>
+    <index>282</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The ability to pass multiple arguments into replace_with() is new
+in Beautiful Soup 4.10.0.</all_paragraphs>
+  </row>
+  <row>
+    <index>283</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>PageElement.wrap() wraps an element in the Tag object you specify. It
+returns the new wrapper:</all_paragraphs>
+  </row>
+  <row>
+    <index>284</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This method is new in Beautiful Soup 4.0.5.</all_paragraphs>
+  </row>
+  <row>
+    <index>285</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.unwrap() is the opposite of wrap(). It replaces a tag with
+whatever's inside that tag. It's good for stripping out markup:</all_paragraphs>
+  </row>
+  <row>
+    <index>286</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Like replace_with(), unwrap() returns the tag
+that was replaced.</all_paragraphs>
+  </row>
+  <row>
+    <index>287</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>After calling a bunch of methods that modify the parse tree, you may end up
+with two or more NavigableString objects next to each other.
+Beautiful Soup doesn't have any problems with this, but since it can't happen
+in a freshly parsed document, you might not expect behavior like the
+following:</all_paragraphs>
+  </row>
+  <row>
+    <index>288</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can call Tag.smooth() to clean up the parse tree by consolidating adjacent strings:</all_paragraphs>
+  </row>
+  <row>
+    <index>289</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This method is new in Beautiful Soup 4.8.0.</all_paragraphs>
+  </row>
+  <row>
+    <index>290</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The prettify() method will turn a Beautiful Soup parse tree into a
+nicely formatted Unicode string, with a separate line for each
+tag and each string:</all_paragraphs>
+  </row>
+  <row>
+    <index>291</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can call prettify() on the top-level BeautifulSoup object,
+or on any of its Tag objects:</all_paragraphs>
+  </row>
+  <row>
+    <index>292</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Since it adds whitespace (in the form of newlines), prettify()
+changes the meaning of an HTML document and should not be used to
+reformat one. The goal of prettify() is to help you visually
+understand the structure of the documents you work with.</all_paragraphs>
+  </row>
+  <row>
+    <index>293</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you just want a string, with no fancy formatting, you can call
+str() on a BeautifulSoup object, or on a Tag within it:</all_paragraphs>
+  </row>
+  <row>
+    <index>294</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The str() function returns a string encoded in UTF-8. See
+Encodings for other options.</all_paragraphs>
+  </row>
+  <row>
+    <index>295</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can also call encode() to get a bytestring, and decode()
+to get Unicode.</all_paragraphs>
+  </row>
+  <row>
+    <index>296</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you give Beautiful Soup a document that contains HTML entities like
+"&amp;lquot;", they'll be converted to Unicode characters:</all_paragraphs>
+  </row>
+  <row>
+    <index>297</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you then convert the document to a bytestring, the Unicode characters
+will be encoded as UTF-8. You won't get the HTML entities back:</all_paragraphs>
+  </row>
+  <row>
+    <index>298</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>By default, the only characters that are escaped upon output are bare
+ampersands and angle brackets. These get turned into "&amp;amp;", "&amp;lt;",
+and "&amp;gt;", so that Beautiful Soup doesn't inadvertently generate
+invalid HTML or XML:</all_paragraphs>
+  </row>
+  <row>
+    <index>299</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can change this behavior by providing a value for the
+formatter argument to prettify(), encode(), or
+decode(). Beautiful Soup recognizes five possible values for
+formatter.</all_paragraphs>
+  </row>
+  <row>
+    <index>300</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The default is formatter="minimal". Strings will only be processed
+enough to ensure that Beautiful Soup generates valid HTML/XML:</all_paragraphs>
+  </row>
+  <row>
+    <index>301</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in formatter="html", Beautiful Soup will convert
+Unicode characters to HTML entities whenever possible:</all_paragraphs>
+  </row>
+  <row>
+    <index>302</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in formatter="html5", it's similar to
+formatter="html", but Beautiful Soup will
+omit the closing slash in HTML void tags like "br":</all_paragraphs>
+  </row>
+  <row>
+    <index>303</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>In addition, any attributes whose values are the empty string
+will become HTML-style Boolean attributes:</all_paragraphs>
+  </row>
+  <row>
+    <index>304</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(This behavior is new as of Beautiful Soup 4.10.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>305</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass in formatter=None, Beautiful Soup will not modify
+strings at all on output. This is the fastest option, but it may lead
+to Beautiful Soup generating invalid HTML/XML, as in these examples:</all_paragraphs>
+  </row>
+  <row>
+    <index>306</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you need more sophisticated control over your output, you can
+instantiate one of Beautiful Soup's formatter classes and pass that
+object in as formatter.</all_paragraphs>
+  </row>
+  <row>
+    <index>307</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Used to customize the formatting rules for HTML documents.</all_paragraphs>
+  </row>
+  <row>
+    <index>308</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's a formatter that converts strings to uppercase, whether they
+occur in a string object or an attribute value:</all_paragraphs>
+  </row>
+  <row>
+    <index>309</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's a formatter that increases the indentation width when pretty-printing:</all_paragraphs>
+  </row>
+  <row>
+    <index>310</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Used to customize the formatting rules for XML documents.</all_paragraphs>
+  </row>
+  <row>
+    <index>311</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Subclassing HTMLFormatter or XMLFormatter will
+give you even more control over the output. For example, Beautiful
+Soup sorts the attributes in every tag by default:</all_paragraphs>
+  </row>
+  <row>
+    <index>312</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>To turn this off, you can subclass the Formatter.attributes()
+method, which controls which attributes are output and in what
+order. This implementation also filters out the attribute called "m"
+whenever it appears:</all_paragraphs>
+  </row>
+  <row>
+    <index>313</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>One last caveat: if you create a CData object, the text inside
+that object is always presented exactly as it appears, with no
+formatting. Beautiful Soup will call your entity substitution
+function, just in case you've written a custom function that counts
+all the strings in the document or something, but it will ignore the
+return value:</all_paragraphs>
+  </row>
+  <row>
+    <index>314</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you only want the human-readable text inside a document or tag, you can use the
+get_text() method. It returns all the text in a document or
+beneath a tag, as a single Unicode string:</all_paragraphs>
+  </row>
+  <row>
+    <index>315</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can specify a string to be used to join the bits of text
+together:</all_paragraphs>
+  </row>
+  <row>
+    <index>316</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can tell Beautiful Soup to strip whitespace from the beginning and
+end of each bit of text:</all_paragraphs>
+  </row>
+  <row>
+    <index>317</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>But at that point you might want to use the .stripped_strings
+generator instead, and process the text yourself:</all_paragraphs>
+  </row>
+  <row>
+    <index>318</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>As of Beautiful Soup version 4.9.0, when lxml or html.parser are in
+use, the contents of &lt;script&gt;, &lt;style&gt;, and &lt;template&gt;
+tags are generally not considered to be 'text', since those tags are not part of
+the human-visible content of the page.</all_paragraphs>
+  </row>
+  <row>
+    <index>319</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>As of Beautiful Soup version 4.10.0, you can call get_text(),
+.strings, or .stripped_strings on a NavigableString object. It will
+either return the object itself, or nothing, so the only reason to do
+this is when you're iterating over a mixed list.</all_paragraphs>
+  </row>
+  <row>
+    <index>320</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>As of Beautiful Soup version 4.13.0, you can call .string on a
+NavigableString object. It will return the object itself, so again,
+the only reason to do this is when you're iterating over a mixed
+list.</all_paragraphs>
+  </row>
+  <row>
+    <index>321</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you just need to parse some HTML, you can dump the markup into the
+BeautifulSoup constructor, and it'll probably be fine. Beautiful
+Soup will pick a parser for you and parse the data. But there are a
+few additional arguments you can pass in to the constructor to change
+which parser is used.</all_paragraphs>
+  </row>
+  <row>
+    <index>322</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The first argument to the BeautifulSoup constructor is a string or
+an open filehandle—the source of the markup you want parsed. The second
+argument is how you'd like the markup parsed.</all_paragraphs>
+  </row>
+  <row>
+    <index>323</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you don't specify anything, you'll get the best HTML parser that's
+installed. Beautiful Soup ranks lxml's parser as being the best, then
+html5lib's, then Python's built-in parser. You can override this by
+specifying one of the following:</all_paragraphs>
+  </row>
+  <row>
+    <index>324</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>What type of markup you want to parse. Currently supported values are
+"html", "xml", and "html5".</all_paragraphs>
+  </row>
+  <row>
+    <index>325</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The name of the parser library you want to use. Currently supported
+options are "lxml", "html5lib", and "html.parser" (Python's
+built-in HTML parser).</all_paragraphs>
+  </row>
+  <row>
+    <index>326</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The section Installing a parser contrasts the supported parsers.</all_paragraphs>
+  </row>
+  <row>
+    <index>327</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you ask for a parser that isn't installed, Beautiful Soup will
+raise an exception so that you don't inadvertently parse a document
+under an unknown set of rules. For example, right now, the only
+supported XML parser is lxml. If you don't have lxml installed, asking
+for an XML parser won't give you one, and asking for "lxml" won't work
+either.</all_paragraphs>
+  </row>
+  <row>
+    <index>328</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup presents the same interface to a number of different
+parsers, but each parser is different. Different parsers will create
+different parse trees from the same document. The biggest differences
+are between the HTML parsers and the XML parsers. Here's a short
+document, parsed as HTML using the parser that comes with Python:</all_paragraphs>
+  </row>
+  <row>
+    <index>329</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Since a standalone &lt;b/&gt; tag is not valid HTML, html.parser turns it into
+a &lt;b&gt;&lt;/b&gt; tag pair.</all_paragraphs>
+  </row>
+  <row>
+    <index>330</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's the same document parsed as XML (running this requires that you
+have lxml installed). Note that the standalone &lt;b/&gt; tag is left alone, and
+that the document is given an XML declaration instead of being put
+into an &lt;html&gt; tag.:</all_paragraphs>
+  </row>
+  <row>
+    <index>331</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>There are also differences between HTML parsers. If you give Beautiful
+Soup a perfectly-formed HTML document, these differences won't
+matter. One parser will be faster than another, but they'll all give
+you a data structure that looks exactly like the original HTML
+document.</all_paragraphs>
+  </row>
+  <row>
+    <index>332</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>But if the document is not perfectly-formed, different parsers will
+give different results. Here's a short, invalid document parsed using
+lxml's HTML parser. Note that the &lt;a&gt; tag gets wrapped in &lt;body&gt; and
+&lt;html&gt; tags, and the dangling &lt;/p&gt; tag is simply ignored:</all_paragraphs>
+  </row>
+  <row>
+    <index>333</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's the same document parsed using html5lib:</all_paragraphs>
+  </row>
+  <row>
+    <index>334</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Instead of ignoring the dangling &lt;/p&gt; tag, html5lib pairs it with an
+opening &lt;p&gt; tag. html5lib also adds an empty &lt;head&gt; tag; lxml didn't
+bother.</all_paragraphs>
+  </row>
+  <row>
+    <index>335</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's the same document parsed with Python's built-in HTML
+parser:</all_paragraphs>
+  </row>
+  <row>
+    <index>336</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Like lxml, this parser ignores the closing &lt;/p&gt; tag. Unlike
+html5lib or lxml, this parser makes no attempt to create a
+well-formed HTML document by adding &lt;html&gt; or &lt;body&gt; tags.</all_paragraphs>
+  </row>
+  <row>
+    <index>337</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Since the document "&lt;a&gt;&lt;/p&gt;" is invalid, none of these techniques is
+the 'correct' way to handle it. The html5lib parser uses techniques
+that are part of the HTML5 standard, so it has the best claim on being
+the 'correct' way, but all three techniques are legitimate.</all_paragraphs>
+  </row>
+  <row>
+    <index>338</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Differences between parsers can affect your script. If you're planning
+on distributing your script to other people, or running it on multiple
+machines, you should specify a parser in the BeautifulSoup
+constructor. That will reduce the chances that your users parse a
+document differently from the way you parse it.</all_paragraphs>
+  </row>
+  <row>
+    <index>339</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Any HTML or XML document is written in a specific encoding like ASCII
+or UTF-8. But when you load that document into Beautiful Soup, you'll
+discover it's been converted to Unicode:</all_paragraphs>
+  </row>
+  <row>
+    <index>340</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>It's not magic. (That sure would be nice.) Beautiful Soup uses a
+sub-library called Unicode, Dammit to detect a document's encoding
+and convert it to Unicode. The autodetected encoding is available as
+the .original_encoding attribute of the BeautifulSoup object:</all_paragraphs>
+  </row>
+  <row>
+    <index>341</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If .original_encoding is None, that means the document was
+already Unicode when it was passed into Beautiful Soup:</all_paragraphs>
+  </row>
+  <row>
+    <index>342</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Unicode, Dammit guesses correctly most of the time, but sometimes it
+makes mistakes. Sometimes it guesses correctly, but only after a
+byte-by-byte search of the document that takes a very long time. If
+you happen to know a document's encoding ahead of time, you can avoid
+mistakes and delays by passing it to the BeautifulSoup constructor
+as from_encoding.</all_paragraphs>
+  </row>
+  <row>
+    <index>343</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's a document written in ISO-8859-8. The document is so short that
+Unicode, Dammit can't get a lock on it, and misidentifies it as
+ISO-8859-7:</all_paragraphs>
+  </row>
+  <row>
+    <index>344</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>We can fix this by passing in the correct from_encoding:</all_paragraphs>
+  </row>
+  <row>
+    <index>345</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you don't know what the correct encoding is, but you know that
+Unicode, Dammit is guessing wrong, you can pass the wrong guesses in
+as exclude_encodings:</all_paragraphs>
+  </row>
+  <row>
+    <index>346</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Windows-1255 isn't 100% correct, but that encoding is a compatible
+superset of ISO-8859-8, so it's close enough. (exclude_encodings
+is a new feature in Beautiful Soup 4.4.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>347</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>In rare cases (usually when a UTF-8 document contains text written in
+a completely different encoding), the only way to get Unicode may be
+to replace some characters with the special Unicode character
+"REPLACEMENT CHARACTER" (U+FFFD, �). If Unicode, Dammit needs to do
+this, it will set the .contains_replacement_characters attribute
+to True on the UnicodeDammit or BeautifulSoup object. This
+lets you know that the Unicode representation is not an exact
+representation of the original—some data was lost. If a document
+contains �, but .contains_replacement_characters is False,
+you'll know that the � was there originally (as it is in this
+paragraph) and doesn't stand in for missing data.</all_paragraphs>
+  </row>
+  <row>
+    <index>348</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>When you write out an output document from Beautiful Soup, you get a UTF-8
+document, even if the input document wasn't in UTF-8 to begin with. Here's a
+document written in the Latin-1 encoding:</all_paragraphs>
+  </row>
+  <row>
+    <index>349</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Note that the &lt;meta&gt; tag has been rewritten to reflect the fact that
+the document is now in UTF-8.</all_paragraphs>
+  </row>
+  <row>
+    <index>350</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you don't want UTF-8, you can pass an encoding into prettify():</all_paragraphs>
+  </row>
+  <row>
+    <index>351</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can also call encode() on the BeautifulSoup object, or any
+element in the soup, just as if it were a Python string:</all_paragraphs>
+  </row>
+  <row>
+    <index>352</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Any characters that can't be represented in your chosen encoding will
+be converted into numeric XML entity references. Here's a document
+that includes the Unicode character SNOWMAN:</all_paragraphs>
+  </row>
+  <row>
+    <index>353</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The SNOWMAN character can be part of a UTF-8 document (it looks like
+☃), but there's no representation for that character in ISO-Latin-1 or
+ASCII, so it's converted into "&amp;#9731" for those encodings:</all_paragraphs>
+  </row>
+  <row>
+    <index>354</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use Unicode, Dammit without using Beautiful Soup. It's useful
+whenever you have data in an unknown encoding and you just want it to
+become Unicode:</all_paragraphs>
+  </row>
+  <row>
+    <index>355</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Unicode, Dammit's guesses will get a lot more accurate if you install
+one of these Python libraries: charset-normalizer, chardet, or
+cchardet. The more data you give Unicode, Dammit, the more
+accurately it will guess. If you have your own suspicions as to what
+the encoding might be, you can pass them in as a list:</all_paragraphs>
+  </row>
+  <row>
+    <index>356</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Unicode, Dammit has two special features that Beautiful Soup doesn't
+use.</all_paragraphs>
+  </row>
+  <row>
+    <index>357</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use Unicode, Dammit to convert Microsoft smart quotes to HTML or XML
+entities:</all_paragraphs>
+  </row>
+  <row>
+    <index>358</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can also convert Microsoft smart quotes to ASCII quotes:</all_paragraphs>
+  </row>
+  <row>
+    <index>359</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Hopefully you'll find this feature useful, but Beautiful Soup doesn't
+use it. Beautiful Soup prefers the default behavior, which is to
+convert Microsoft smart quotes to Unicode characters along with
+everything else:</all_paragraphs>
+  </row>
+  <row>
+    <index>360</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Sometimes a document is mostly in UTF-8, but contains Windows-1252
+characters such as (again) Microsoft smart quotes. This can happen
+when a website includes data from multiple sources. You can use
+UnicodeDammit.detwingle() to turn such a document into pure
+UTF-8. Here's a simple example:</all_paragraphs>
+  </row>
+  <row>
+    <index>361</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This document is a mess. The snowmen are in UTF-8 and the quotes are
+in Windows-1252. You can display the snowmen or the quotes, but not
+both:</all_paragraphs>
+  </row>
+  <row>
+    <index>362</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Decoding the document as UTF-8 raises a UnicodeDecodeError, and
+decoding it as Windows-1252 gives you gibberish. Fortunately,
+UnicodeDammit.detwingle() will convert the string to pure UTF-8,
+allowing you to decode it to Unicode and display the snowmen and quote
+marks simultaneously:</all_paragraphs>
+  </row>
+  <row>
+    <index>363</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>UnicodeDammit.detwingle() only knows how to handle Windows-1252
+embedded in UTF-8 (or vice versa, I suppose), but this is the most
+common case.</all_paragraphs>
+  </row>
+  <row>
+    <index>364</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Note that you must know to call UnicodeDammit.detwingle() on your
+data before passing it into BeautifulSoup or the UnicodeDammit
+constructor. Beautiful Soup assumes that a document has a single
+encoding, whatever it might be. If you pass it a document that
+contains both UTF-8 and Windows-1252, it's likely to think the whole
+document is Windows-1252, and the document will come out looking like
+â˜ƒâ˜ƒâ˜ƒ“I like snowmen!”.</all_paragraphs>
+  </row>
+  <row>
+    <index>365</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>UnicodeDammit.detwingle() is new in Beautiful Soup 4.1.0.</all_paragraphs>
+  </row>
+  <row>
+    <index>366</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The html.parser and html5lib parsers can keep track of where in
+the original document each Tag was found. You can access this
+information as Tag.sourceline (line number) and Tag.sourcepos
+(position of the start tag within a line):</all_paragraphs>
+  </row>
+  <row>
+    <index>367</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Note that the two parsers mean slightly different things by
+sourceline and sourcepos. For html.parser, these numbers
+represent the position of the initial less-than sign. For html5lib,
+these numbers represent the position of the final greater-than sign:</all_paragraphs>
+  </row>
+  <row>
+    <index>368</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can shut off this feature by passing store_line_numbers=False
+into the BeautifulSoup constructor:</all_paragraphs>
+  </row>
+  <row>
+    <index>369</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This feature is new in 4.8.1, and the parsers based on lxml don't
+support it.</all_paragraphs>
+  </row>
+  <row>
+    <index>370</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup says that two NavigableString or Tag objects
+are equal when they represent the same HTML or XML markup, even if their
+attributes are in a different order or they live in different parts of the
+object tree. In this example, the two &lt;b&gt; tags are treated as equal, because
+they both look like "&lt;b&gt;pizza&lt;/b&gt;":</all_paragraphs>
+  </row>
+  <row>
+    <index>371</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you want to see whether two variables refer to exactly the same
+object, use is:</all_paragraphs>
+  </row>
+  <row>
+    <index>372</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use copy.copy() to create a copy of any Tag or
+NavigableString:</all_paragraphs>
+  </row>
+  <row>
+    <index>373</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The copy is considered equal to the original, since it represents the
+same markup as the original, but it's not the same object:</all_paragraphs>
+  </row>
+  <row>
+    <index>374</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The only real difference is that the copy is completely detached from
+the original Beautiful Soup object tree, just as if extract() had
+been called on it. This is because two different Tag
+objects can't occupy the same space at the same time.</all_paragraphs>
+  </row>
+  <row>
+    <index>375</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can use Tag.copy_self() to create a copy of a
+Tag without copying its contents.</all_paragraphs>
+  </row>
+  <row>
+    <index>376</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(Tag.copy_self() is introduced in Beautiful Soup 4.13.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>377</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Almost everyone who uses Beautiful Soup to extract information from a
+document can get what they need using the methods described in
+Searching the tree. However, there's a lower-level interface that
+lets you define any matching behavior you want. Behind the scenes, the
+parts of the Beautiful Soup API that most people use--find_all()
+and the like—are actually using this low-level interface, and you
+can use it directly.</all_paragraphs>
+  </row>
+  <row>
+    <index>378</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(Access to the low-level search interface is a new feature in
+Beautiful Soup 4.13.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>379</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The ElementFilter class is your entry point to the
+low-level interface. To use it, define a function that takes a
+PageElement object (which could be either a
+Tag or a NavigableString). The function must
+return True if the element matches your custom criteria, and
+False if it doesn't.</all_paragraphs>
+  </row>
+  <row>
+    <index>380</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This example function looks for content-containing tags and strings,
+but skips whitespace-only strings:</all_paragraphs>
+  </row>
+  <row>
+    <index>381</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Once you have a function, pass it into the ElementFilter constructor:</all_paragraphs>
+  </row>
+  <row>
+    <index>382</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can then use this ElementFilter object as the first
+argument to any of the Searching the tree methods. Whatever
+criteria you defined in your function will be used instead of the
+default Beautiful Soup match logic:</all_paragraphs>
+  </row>
+  <row>
+    <index>383</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Every potential match will be run through your function, and the only
+PageElement objects returned will be the ones where your
+function returned True.</all_paragraphs>
+  </row>
+  <row>
+    <index>384</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>To summarize the function-based matching behaviors,</all_paragraphs>
+  </row>
+  <row>
+    <index>385</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A function passed as the first argument to a search method
+(or equivalently, using the name argument) considers only
+Tag objects.</all_paragraphs>
+  </row>
+  <row>
+    <index>386</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A function passed to a search method using the string argument
+considers only NavigableString objects.</all_paragraphs>
+  </row>
+  <row>
+    <index>387</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>A function passed to a search method using an ElementFilter
+object considers both Tag and NavigableString
+objects.</all_paragraphs>
+  </row>
+  <row>
+    <index>388</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>By passing an ElementFilter instance into Beautiful Soup's
+tree-searching methods, you can completely customize what it means for
+Beautiful Soup to match an element as it iterates over the parse
+tree. By using the ElementFilter.filter() method, you can
+also completely customize what it means for Beautiful Soup to iterate
+over the parse tree in the first place.</all_paragraphs>
+  </row>
+  <row>
+    <index>389</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The ElementFilter.filter() method takes a generator that yields
+a stream of PageElement objects. There is no restriction
+on which PageElement objects show up, how many times they
+show up, or in which order. Theoretically, they don't even need to be
+from the same BeautifulSoup document. You can do whatever
+makes sense for you.</all_paragraphs>
+  </row>
+  <row>
+    <index>390</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's a silly example: a generator that walks randomly back and forth
+through the parse tree:</all_paragraphs>
+  </row>
+  <row>
+    <index>391</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Pass this generator into the example ElementFilter.filter()
+and Beautiful Soup will wander randomly around the parse tree,
+applying the non_whitespace_filter function to every element it finds,
+and yielding all of the matches—potentially yielding a given object
+more than once:</all_paragraphs>
+  </row>
+  <row>
+    <index>392</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(Note that unlike the other code examples in this documentation, this
+example can give different results every time you run it, thanks
+to the random element. It's very unlikely, but this function could
+wander around the parse tree forever and never complete.)</all_paragraphs>
+  </row>
+  <row>
+    <index>393</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup offers a number of ways to customize how the parser
+treats incoming HTML and XML. This section covers the most commonly
+used customization techniques.</all_paragraphs>
+  </row>
+  <row>
+    <index>394</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Let's say you want to use Beautiful Soup to look at a document's &lt;a&gt;
+tags. It's a waste of time and memory to parse the entire document and
+then go over it again looking for &lt;a&gt; tags. It would be much faster to
+ignore everything that wasn't an &lt;a&gt; tag in the first place. The
+SoupStrainer class allows you to choose which parts of an incoming
+document are parsed. You just create a SoupStrainer and pass it in
+to the BeautifulSoup constructor as the parse_only argument.</all_paragraphs>
+  </row>
+  <row>
+    <index>395</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(Note that this feature won't work if you're using the html5lib parser.
+If you use html5lib, the whole document will be parsed, no
+matter what. This is because html5lib constantly rearranges the parse
+tree as it works, and if some part of the document didn't actually
+make it into the parse tree, it'll crash. To avoid confusion, in the
+examples below I'll be forcing Beautiful Soup to use Python's
+built-in parser.)</all_paragraphs>
+  </row>
+  <row>
+    <index>396</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The SoupStrainer class takes the same arguments as a typical
+method from Searching the tree: name, attrs, string, and **kwargs. Here are
+three SoupStrainer objects:</all_paragraphs>
+  </row>
+  <row>
+    <index>397</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>I'm going to bring back the "three sisters" document one more time,
+and we'll see what the document looks like when it's parsed with these
+three SoupStrainer objects:</all_paragraphs>
+  </row>
+  <row>
+    <index>398</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The SoupStrainer behavior is as follows:</all_paragraphs>
+  </row>
+  <row>
+    <index>399</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>When a tag matches, it is kept (including all its contents, whether they also
+match or not).</all_paragraphs>
+  </row>
+  <row>
+    <index>400</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>When a tag does not match, the tag itself is not kept, but parsing continues
+into its contents to look for other tags that do match.</all_paragraphs>
+  </row>
+  <row>
+    <index>401</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>In an HTML document, an attribute like class is given a list of
+values, and an attribute like id is given a single value, because
+the HTML specification treats those attributes differently:</all_paragraphs>
+  </row>
+  <row>
+    <index>402</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can turn this off by passing in
+multi_valued_attributes=None. Than all attributes will be given a
+single value:</all_paragraphs>
+  </row>
+  <row>
+    <index>403</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can customize this behavior quite a bit by passing in a
+dictionary for multi_valued_attributes. If you need this, look at
+HTMLTreeBuilder.DEFAULT_CDATA_LIST_ATTRIBUTES to see the
+configuration Beautiful Soup uses by default, which is based on the
+HTML specification.</all_paragraphs>
+  </row>
+  <row>
+    <index>404</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(This is a new feature in Beautiful Soup 4.8.0.)</all_paragraphs>
+  </row>
+  <row>
+    <index>405</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>When using the html.parser parser, you can use the
+on_duplicate_attribute constructor argument to customize what
+Beautiful Soup does when it encounters a tag that defines the same
+attribute more than once:</all_paragraphs>
+  </row>
+  <row>
+    <index>406</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The default behavior is to use the last value found for the tag:</all_paragraphs>
+  </row>
+  <row>
+    <index>407</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>With on_duplicate_attribute='ignore' you can tell Beautiful Soup
+to use the first value found and ignore the rest:</all_paragraphs>
+  </row>
+  <row>
+    <index>408</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(lxml and html5lib always do it this way; their behavior can't be
+configured from within Beautiful Soup.)</all_paragraphs>
+  </row>
+  <row>
+    <index>409</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you need more control, you can pass in a function that's called on each
+duplicate value:</all_paragraphs>
+  </row>
+  <row>
+    <index>410</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(This is a new feature in Beautiful Soup 4.9.1.)</all_paragraphs>
+  </row>
+  <row>
+    <index>411</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>When a parser tells Beautiful Soup about a tag or a string, Beautiful
+Soup will instantiate a Tag or NavigableString object to
+contain that information. Instead of that default behavior, you can
+tell Beautiful Soup to instantiate subclasses of Tag or
+NavigableString, subclasses you define with custom behavior:</all_paragraphs>
+  </row>
+  <row>
+    <index>412</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>This can be useful when incorporating Beautiful Soup into a test
+framework.</all_paragraphs>
+  </row>
+  <row>
+    <index>413</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>(This is a new feature in Beautiful Soup 4.8.1.)</all_paragraphs>
+  </row>
+  <row>
+    <index>414</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you're having trouble understanding what Beautiful Soup does to a
+document, pass the document into the diagnose() function. (This function is new in
+Beautiful Soup 4.2.0.) Beautiful Soup will print out a report showing
+you how different parsers handle the document, and tell you if you're
+missing a parser that Beautiful Soup could be using:</all_paragraphs>
+  </row>
+  <row>
+    <index>415</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Just looking at the output of diagnose() might show you how to solve the
+problem. Even if not, you can paste the output of diagnose() when
+asking for help.</all_paragraphs>
+  </row>
+  <row>
+    <index>416</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>There are two different kinds of parse errors. There are crashes,
+where you feed a document to Beautiful Soup and it raises an
+exception (usually an HTMLParser.HTMLParseError). And there is
+unexpected behavior, where a Beautiful Soup parse tree looks a lot
+different than the document used to create it.</all_paragraphs>
+  </row>
+  <row>
+    <index>417</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>These problems are almost never problems with Beautiful Soup itself.
+This is not because Beautiful Soup is an amazingly well-written piece
+of software. It's because Beautiful Soup doesn't include any parsing
+code. Instead, it relies on external parsers. If one parser isn't
+working on a certain document, the best solution is to try a different
+parser. See Installing a parser for details and a parser
+comparison. If this doesn't help, you might need to inspect the
+document tree found inside the BeautifulSoup object, to see where
+the markup you're looking for actually ended up.</all_paragraphs>
+  </row>
+  <row>
+    <index>418</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>SyntaxError: Invalid syntax (on the line ROOT_TAG_NAME =
+'[document]'): Caused by running an old Python 2 version of
+Beautiful Soup under Python 3, without converting the code.</all_paragraphs>
+  </row>
+  <row>
+    <index>419</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>ImportError: No module named HTMLParser - Caused by running an old
+Python 2 version of Beautiful Soup under Python 3.</all_paragraphs>
+  </row>
+  <row>
+    <index>420</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>ImportError: No module named html.parser - Caused by running the
+Python 3 version of Beautiful Soup under Python 2.</all_paragraphs>
+  </row>
+  <row>
+    <index>421</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>ImportError: No module named BeautifulSoup - Caused by running
+Beautiful Soup 3 code in an environment that doesn't have BS3
+installed. Or, by writing Beautiful Soup 4 code without knowing that
+the package name has changed to bs4.</all_paragraphs>
+  </row>
+  <row>
+    <index>422</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>ImportError: No module named bs4 - Caused by running Beautiful
+Soup 4 code in an environment that doesn't have BS4 installed.</all_paragraphs>
+  </row>
+  <row>
+    <index>423</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>By default, Beautiful Soup parses documents as HTML. To parse a
+document as XML, pass in "xml" as the second argument to the
+BeautifulSoup constructor:</all_paragraphs>
+  </row>
+  <row>
+    <index>424</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You'll need to have lxml installed.</all_paragraphs>
+  </row>
+  <row>
+    <index>425</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If your script works on one computer but not another, or in one
+virtual environment but not another, or outside the virtual
+environment but not inside, it's probably because the two
+environments have different parser libraries available. For example,
+you may have developed the script on a computer that has lxml
+installed, and then tried to run it on a computer that only has
+html5lib installed. See Differences between parsers for why this
+matters, and fix the problem by mentioning a specific parser library
+in the BeautifulSoup constructor.</all_paragraphs>
+  </row>
+  <row>
+    <index>426</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Because HTML tags and attributes are case-insensitive, all three HTML
+parsers convert tag and attribute names to lowercase. That is, the
+markup &lt;TAG&gt;&lt;/TAG&gt; is converted to &lt;tag&gt;&lt;/tag&gt;. If you want to
+preserve mixed-case or uppercase tags and attributes, you'll need to
+parse the document as XML.</all_paragraphs>
+  </row>
+  <row>
+    <index>427</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>UnicodeEncodeError: 'charmap' codec can't encode character
+'\xfoo' in position bar (or just about any other
+UnicodeEncodeError) - This problem shows up in two main
+situations. First, when you try to print a Unicode character that
+your console doesn't know how to display. (See this page on the
+Python wiki for help.)
+Second, when you're writing to a file and you pass in a Unicode
+character that's not supported by your default encoding. In this
+case, the simplest solution is to explicitly encode the Unicode
+string into UTF-8 with u.encode("utf8").</all_paragraphs>
+  </row>
+  <row>
+    <index>428</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>KeyError: [attr] - Caused by accessing tag['attr'] when the
+tag in question doesn't define the attr attribute. The most
+common errors are KeyError: 'href' and KeyError: 'class'.
+Use tag.get('attr') if you're not sure attr is
+defined, just as you would with a Python dictionary.</all_paragraphs>
+  </row>
+  <row>
+    <index>429</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>AttributeError: 'ResultSet' object has no attribute 'foo' - This
+usually happens because you expected find_all() to return a
+single tag or string. But find_all() returns a list of tags
+and strings—a ResultSet object. You need to iterate over the
+list and look at the .foo of each one. Or, if you really only
+want one result, you need to use find() instead of
+find_all().</all_paragraphs>
+  </row>
+  <row>
+    <index>430</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>AttributeError: 'NoneType' object has no attribute 'foo' - This
+usually happens because you called find() and then tried to
+access the .foo attribute of the result. But in your case,
+find() didn't find anything, so it returned None, instead of
+returning a tag or a string. You need to figure out why your
+find() call isn't returning anything.</all_paragraphs>
+  </row>
+  <row>
+    <index>431</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>AttributeError: 'NavigableString' object has no attribute
+'foo' - This usually happens because you're treating a string as
+though it were a tag. You may be iterating over a list, expecting
+that it contains nothing but tags, when it actually contains both tags and
+strings.</all_paragraphs>
+  </row>
+  <row>
+    <index>432</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup will never be as fast as the parsers it sits on top
+of. If response time is critical, if you're paying for computer time
+by the hour, or if there's any other reason why computer time is more
+valuable than programmer time, you should forget about Beautiful Soup
+and work directly atop lxml.</all_paragraphs>
+  </row>
+  <row>
+    <index>433</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>That said, there are things you can do to speed up Beautiful Soup. If
+you're not using lxml as the underlying parser, my advice is to
+start. Beautiful Soup parses documents
+significantly faster using lxml than using html.parser or html5lib.</all_paragraphs>
+  </row>
+  <row>
+    <index>434</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can speed up encoding detection significantly by installing the
+cchardet library.</all_paragraphs>
+  </row>
+  <row>
+    <index>435</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Parsing only part of a document won't save you much time parsing
+the document, but it can save a lot of memory, and it'll make
+searching the document much faster.</all_paragraphs>
+  </row>
+  <row>
+    <index>436</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>New translations of the Beautiful Soup documentation are greatly
+appreciated. Translations should be licensed under the MIT license,
+just like Beautiful Soup and its English documentation are.</all_paragraphs>
+  </row>
+  <row>
+    <index>437</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>There are two ways of getting your translation into the main code base
+and onto the Beautiful Soup website:</all_paragraphs>
+  </row>
+  <row>
+    <index>438</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Create a branch of the Beautiful Soup repository, add your
+translation, and propose a merge with the main branch, the same
+as you would do with a proposed change to the source code.</all_paragraphs>
+  </row>
+  <row>
+    <index>439</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Send a message to the Beautiful Soup discussion group with a link to
+your translation, or attach your translation to the message.</all_paragraphs>
+  </row>
+  <row>
+    <index>440</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Use the Chinese or Brazilian Portuguese translations as your model. In
+particular, please translate the source file doc/index.rst,
+rather than the HTML version of the documentation. This makes it
+possible to publish the documentation in a variety of formats, not
+just HTML.</all_paragraphs>
+  </row>
+  <row>
+    <index>441</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup 3 is the previous release series, and is no longer
+supported. Development of Beautiful Soup 3 stopped in 2012, and the
+package was completely discontinued in 2021. There's no reason to
+install it unless you're trying to get very old software to work, but
+it's published through PyPi as BeautifulSoup:</all_paragraphs>
+  </row>
+  <row>
+    <index>442</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>$ pip install BeautifulSoup</all_paragraphs>
+  </row>
+  <row>
+    <index>443</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>You can also download a tarball of the final release, 3.2.2.</all_paragraphs>
+  </row>
+  <row>
+    <index>444</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you ran pip install beautifulsoup or pip install
+BeautifulSoup, but your code doesn't work, you installed Beautiful
+Soup 3 by mistake. You need to run pip install beautifulsoup4.</all_paragraphs>
+  </row>
+  <row>
+    <index>445</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The documentation for Beautiful Soup 3 is archived online.</all_paragraphs>
+  </row>
+  <row>
+    <index>446</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Most code written against Beautiful Soup 3 will work against Beautiful
+Soup 4 with one simple change. All you should have to do is change the
+package name from BeautifulSoup to bs4. So this:</all_paragraphs>
+  </row>
+  <row>
+    <index>447</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>becomes this:</all_paragraphs>
+  </row>
+  <row>
+    <index>448</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you get the ImportError "No module named BeautifulSoup", your
+problem is that you're trying to run Beautiful Soup 3 code, but you
+only have Beautiful Soup 4 installed.</all_paragraphs>
+  </row>
+  <row>
+    <index>449</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you get the ImportError "No module named bs4", your problem
+is that you're trying to run Beautiful Soup 4 code, but you only
+have Beautiful Soup 3 installed.</all_paragraphs>
+  </row>
+  <row>
+    <index>450</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Although BS4 is mostly backward-compatible with BS3, most of its
+methods have been deprecated and given new names for PEP 8 compliance. There are numerous other
+renames and changes, and a few of them break backward compatibility.</all_paragraphs>
+  </row>
+  <row>
+    <index>451</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Here's what you'll need to know to convert your BS3 code and habits to BS4:</all_paragraphs>
+  </row>
+  <row>
+    <index>452</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup 3 used Python's SGMLParser, a module that was
+deprecated and removed in Python 3.0. Beautiful Soup 4 uses
+html.parser by default, but you can plug in lxml or html5lib and
+use that instead. See Installing a parser for a comparison.</all_paragraphs>
+  </row>
+  <row>
+    <index>453</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Since html.parser is not the same parser as SGMLParser, you
+may find that Beautiful Soup 4 gives you a different parse tree than
+Beautiful Soup 3 for the same markup. If you swap out html.parser
+for lxml or html5lib, you may find that the parse tree changes yet
+again. If this happens, you'll need to update your scraping code to
+process the new tree.</all_paragraphs>
+  </row>
+  <row>
+    <index>454</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>I renamed three attributes to avoid using words that have special
+meaning to Python. Unlike my changes to method names (which you'll see
+in the form of deprecation warnings), these changes did not
+preserve backwards compatibility. If you used these attributes in
+BS3, your code will break in BS4 until you change them.</all_paragraphs>
+  </row>
+  <row>
+    <index>455</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>UnicodeDammit.unicode -&gt; UnicodeDammit.unicode_markup</all_paragraphs>
+  </row>
+  <row>
+    <index>456</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.next -&gt; Tag.next_element</all_paragraphs>
+  </row>
+  <row>
+    <index>457</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.previous -&gt; Tag.previous_element</all_paragraphs>
+  </row>
+  <row>
+    <index>458</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Some of the generators used to yield None after they were done, and
+then stop. That was a bug. Now the generators just stop.</all_paragraphs>
+  </row>
+  <row>
+    <index>459</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>There is no longer a BeautifulStoneSoup class for parsing XML. To
+parse XML you pass in "xml" as the second argument to the
+BeautifulSoup constructor. For the same reason, the
+BeautifulSoup constructor no longer recognizes the isHTML
+argument.</all_paragraphs>
+  </row>
+  <row>
+    <index>460</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Beautiful Soup's handling of empty-element XML tags has been
+improved. Previously when you parsed XML you had to explicitly say
+which tags were considered empty-element tags. The selfClosingTags
+argument to the constructor is no longer recognized. Instead,
+Beautiful Soup considers any empty tag to be an empty-element tag. If
+you add a child to an empty-element tag, it stops being an
+empty-element tag.</all_paragraphs>
+  </row>
+  <row>
+    <index>461</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>An incoming HTML or XML entity is always converted into the
+corresponding Unicode character. Beautiful Soup 3 had a number of
+overlapping ways of dealing with entities, which have been
+removed. The BeautifulSoup constructor no longer recognizes the
+smartQuotesTo or convertEntities arguments. (Unicode,
+Dammit still has smart_quotes_to, but its default is now to turn
+smart quotes into Unicode.) The constants HTML_ENTITIES,
+XML_ENTITIES, and XHTML_ENTITIES have been removed, since they
+configure a feature (transforming some but not all entities into
+Unicode characters) that no longer exists.</all_paragraphs>
+  </row>
+  <row>
+    <index>462</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you want to turn Unicode characters back into HTML entities on
+output, rather than turning them into UTF-8 characters, you need to
+use an output formatter.</all_paragraphs>
+  </row>
+  <row>
+    <index>463</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag.string now operates recursively. If tag A
+contains a single tag B and nothing else, then A.string is the same as
+B.string. (Previously, it was None.)</all_paragraphs>
+  </row>
+  <row>
+    <index>464</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Multi-valued attributes like class have lists of strings as
+their values, not simple strings. This may affect the way you search by CSS
+class.</all_paragraphs>
+  </row>
+  <row>
+    <index>465</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>Tag objects now implement the __hash__ method, such that two
+Tag objects are considered equal if they generate the same
+markup. This may change your script's behavior if you put Tag
+objects into a dictionary or set.</all_paragraphs>
+  </row>
+  <row>
+    <index>466</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>If you pass one of the find* methods both string and
+a tag-specific argument like name, Beautiful Soup will
+search for tags that match your tag-specific criteria and whose
+Tag.string matches your string
+value. It will not find the strings themselves. Previously,
+Beautiful Soup ignored the tag-specific arguments and looked for
+strings.</all_paragraphs>
+  </row>
+  <row>
+    <index>467</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The BeautifulSoup constructor no longer recognizes the
+markupMassage argument. It's now the parser's responsibility to
+handle markup correctly.</all_paragraphs>
+  </row>
+  <row>
+    <index>468</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The rarely-used alternate parser classes like
+ICantBelieveItsBeautifulSoup and BeautifulSOAP have been
+removed. It's now the parser's decision how to handle ambiguous
+markup.</all_paragraphs>
+  </row>
+  <row>
+    <index>469</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>www.somewesite.com</all_urls>
+    <all_paragraphs>The prettify() method now returns a Unicode string, not a bytestring.</all_paragraphs>
+  </row>
+</data>
