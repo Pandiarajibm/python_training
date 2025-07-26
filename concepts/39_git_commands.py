@@ -37,11 +37,13 @@ Git Commands
 
 
 # ---------------
-# PART-4: Link python_training repository present in lattop with github repository
+# PART-4: Link python_training repository present in laptop with github repository
 # ---------------
-#
+# We should link to our repository with python_training.git
 # - cd to C:\python_training
+# - C:\python_training>git remote add origin https://github.com/Pandiarajibm/python_training.git
 # - C:\python_training>git remote add origin https://github.com/mahadevaprabhug/python_training_14.git
+
 #############################
 
 # ---------------
@@ -63,7 +65,7 @@ Git Commands
 # 4. git pull origin master
 #
 #############################
-
+#https://forms.office.com/r/6hZH3MdrHp - MCQ assessment
 #########
 #https://pypi.org/project/selenium/
 #https://pypi.org/project/robotframework/
@@ -71,3 +73,25 @@ Git Commands
 # mahadevaprabhu.g@gmail.com
 # Mahadeva Prabhu G
 #########
+
+
+###########
+"""
+…or create a new repository on the command line
+
+echo "# python_training" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pandiarajibm/python_training.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Pandiarajibm/python_training.git
+git branch -M main
+git push -u origin main
+
+##############
+"""
