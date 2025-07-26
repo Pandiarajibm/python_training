@@ -1,0 +1,642 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>Welcome to Python.org</website_title>
+    <all_urls>https://www.python.org/psf/</all_urls>
+    <all_paragraphs>Notice: While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience. </all_paragraphs>
+  </row>
+  <row>
+    <index>1</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://docs.python.org</all_urls>
+    <all_paragraphs>The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3</all_paragraphs>
+  </row>
+  <row>
+    <index>2</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://pypi.org/</all_urls>
+    <all_paragraphs>Lists (known as arrays in other languages) are one of the compound data types that Python understands. Lists can be indexed, sliced and manipulated with other built-in functions. More about lists in Python 3</all_paragraphs>
+  </row>
+  <row>
+    <index>3</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://psfmember.org/civicrm/contribute/transact?reset=1&amp;id=2</all_urls>
+    <all_paragraphs>Calculations are simple with Python, and expression syntax is straightforward: the operators +, -, * and / work as expected; parentheses () can be used for grouping. More about simple math functions in Python 3.</all_paragraphs>
+  </row>
+  <row>
+    <index>4</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.linkedin.com/company/python-software-foundation/</all_urls>
+    <all_paragraphs>Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3</all_paragraphs>
+  </row>
+  <row>
+    <index>5</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://fosstodon.org/@ThePSF</all_urls>
+    <all_paragraphs>Experienced programmers in any other language can pick up Python very quickly, and beginners find the clean syntax and indentation structure easy to learn. Whet your appetite with our Python 3 overview.</all_paragraphs>
+  </row>
+  <row>
+    <index>6</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://twitter.com/ThePSF</all_urls>
+    <all_paragraphs>Python is a programming language that lets you work quickly and integrate systems more effectively. Learn More</all_paragraphs>
+  </row>
+  <row>
+    <index>7</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://brochure.getpython.info/</all_urls>
+    <all_paragraphs>Whether you're new to programming or an experienced developer, it's easy to learn and use Python.</all_paragraphs>
+  </row>
+  <row>
+    <index>8</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://docs.python.org/3/license.html</all_urls>
+    <all_paragraphs>Start with our Beginner’s Guide</all_paragraphs>
+  </row>
+  <row>
+    <index>9</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/BeginnersGuide</all_urls>
+    <all_paragraphs>Python source code and installers are available for download for all versions!</all_paragraphs>
+  </row>
+  <row>
+    <index>10</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://devguide.python.org/</all_urls>
+    <all_paragraphs>Latest: Python 3.13.5</all_paragraphs>
+  </row>
+  <row>
+    <index>11</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://docs.python.org/faq/</all_urls>
+    <all_paragraphs>Documentation for Python's standard library, along with tutorials and guides, are available online.</all_paragraphs>
+  </row>
+  <row>
+    <index>12</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://wiki.python.org/moin/Languages</all_urls>
+    <all_paragraphs>docs.python.org</all_paragraphs>
+  </row>
+  <row>
+    <index>13</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://peps.python.org</all_urls>
+    <all_paragraphs>Looking for work or have a Python related position that you're trying to hire for? Our relaunched community-run job board is the place to go.</all_paragraphs>
+  </row>
+  <row>
+    <index>14</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/PythonBooks</all_urls>
+    <all_paragraphs>jobs.python.org</all_paragraphs>
+  </row>
+  <row>
+    <index>15</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/</all_urls>
+    <all_paragraphs>More</all_paragraphs>
+  </row>
+  <row>
+    <index>16</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://pyfound.blogspot.com/</all_urls>
+    <all_paragraphs>More</all_paragraphs>
+  </row>
+  <row>
+    <index>17</index>
+    <IP>123.123.123.123</IP>
+    <DATE>26/Apr/2000</DATE>
+    <URL>http://www.jafsoft.com/asctortf/</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://pycon.blogspot.com/</all_urls>
+    <all_paragraphs>More</all_paragraphs>
+  </row>
+  <row>
+    <index>18</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://planetpython.org/</all_urls>
+    <all_paragraphs>Python provides convenience and flexibility for scalable ML/AI by Dean Wampler</all_paragraphs>
+  </row>
+  <row>
+    <index>19</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event</all_urls>
+    <all_paragraphs>More</all_paragraphs>
+  </row>
+  <row>
+    <index>20</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator</all_urls>
+    <all_paragraphs>The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more </all_paragraphs>
+  </row>
+  <row>
+    <index>21</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://docs.python.org</all_urls>
+    <all_paragraphs>
+Become a Member
+Donate to the PSF
+</all_paragraphs>
+  </row>
+  <row>
+    <index>22</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://blog.python.org</all_urls>
+    <all_paragraphs>
+Copyright ©2001-2025.
+                             Python Software Foundation
+                             Legal Statements
+                             Privacy Notice
+
+</all_paragraphs>
+  </row>
+  <row>
+    <index>23</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>24</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://pyfound.blogspot.com/2025/07/affirm-your-psf-membership-voting-status.html</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>25</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://mailchi.mp/python/python-software-foundation-july-2024-newsletter-19880429</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>26</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://pyfound.blogspot.com/2025/07/notice-of-python-software-foundation.html</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>27</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://pythoninsider.blogspot.com/2025/07/python-3140-beta-4-is-here.html</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>28</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.djangoproject.com/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>29</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.pylonsproject.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>30</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://bottlepy.org</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>31</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://tornadoweb.org</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>32</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://flask.pocoo.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>33</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.web2py.com/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>34</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://wiki.python.org/moin/TkInter</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>35</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.gnome.org/Projects/PyGObject</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>36</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.riverbankcomputing.co.uk/software/pyqt/intro</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>37</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.qt.io/PySide</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>38</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://kivy.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>39</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.wxpython.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>40</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://dearpygui.readthedocs.io/en/latest/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>41</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.scipy.org</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>42</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://pandas.pydata.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>43</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://ipython.org</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>44</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://buildbot.net/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>45</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://trac.edgewall.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>46</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://roundup.sourceforge.net/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>47</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://www.ansible.com</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>48</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://saltproject.io</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>49</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://www.openstack.org</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>50</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://xon.sh</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>51</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://brochure.getpython.info/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>52</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://docs.python.org/3/license.html</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>53</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/BeginnersGuide</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>54</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://devguide.python.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>55</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://docs.python.org/faq/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>56</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://wiki.python.org/moin/Languages</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>57</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://peps.python.org</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>58</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/PythonBooks</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>59</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>60</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://pyfound.blogspot.com/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>61</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://pycon.blogspot.com/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>62</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>http://planetpython.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>63</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>64</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://devguide.python.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>65</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://github.com/python/cpython/issues</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>66</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://mail.python.org/mailman/listinfo/python-dev</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>67</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://github.com/python/pythondotorg/issues</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>68</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://status.python.org/</all_urls>
+    <all_paragraphs/>
+  </row>
+  <row>
+    <index>69</index>
+    <IP>127.0.0.1</IP>
+    <DATE>1970-01-01</DATE>
+    <URL>www.xyzabc.com</URL>
+    <website_title>New Title</website_title>
+    <all_urls>https://policies.python.org/python.org/Privacy-Notice/</all_urls>
+    <all_paragraphs/>
+  </row>
+</data>

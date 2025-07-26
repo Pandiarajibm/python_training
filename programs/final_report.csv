@@ -1,0 +1,80 @@
+IP,DATE,URL,website_title,all_urls,all_paragraphs
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,Welcome to Python.org,https://www.python.org/psf/,"Notice: While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience. "
+123.123.123.123,26/Apr/2000,http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF,New Title,https://docs.python.org,"The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3"
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://pypi.org/,"Lists (known as arrays in other languages) are one of the compound data types that Python understands. Lists can be indexed, sliced and manipulated with other built-in functions. More about lists in Python 3"
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://psfmember.org/civicrm/contribute/transact?reset=1&id=2,"Calculations are simple with Python, and expression syntax is straightforward: the operators +, -, * and / work as expected; parentheses () can be used for grouping. More about simple math functions in Python 3."
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://www.linkedin.com/company/python-software-foundation/,"Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3"
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://fosstodon.org/@ThePSF,"Experienced programmers in any other language can pick up Python very quickly, and beginners find the clean syntax and indentation structure easy to learn. Whet your appetite with our Python 3 overview."
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://twitter.com/ThePSF,Python is a programming language that lets you work quickly and integrate systems more effectively. Learn More
+123.123.123.123,26/Apr/2000,http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF,New Title,http://brochure.getpython.info/,"Whether you're new to programming or an experienced developer, it's easy to learn and use Python."
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://docs.python.org/3/license.html,Start with our Beginner’s Guide
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://wiki.python.org/moin/BeginnersGuide,Python source code and installers are available for download for all versions!
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://devguide.python.org/,Latest: Python 3.13.5
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://docs.python.org/faq/,"Documentation for Python's standard library, along with tutorials and guides, are available online."
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,http://wiki.python.org/moin/Languages,docs.python.org
+123.123.123.123,26/Apr/2000,http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF,New Title,https://peps.python.org,Looking for work or have a Python related position that you're trying to hire for? Our relaunched community-run job board is the place to go.
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://wiki.python.org/moin/PythonBooks,jobs.python.org
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,https://wiki.python.org/moin/,More
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,http://pyfound.blogspot.com/,More
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,http://pycon.blogspot.com/,More
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://planetpython.org/,Python provides convenience and flexibility for scalable ML/AI by Dean Wampler
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event,More
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator,"The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more "
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://docs.python.org,"
+Become a Member
+Donate to the PSF
+"
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://blog.python.org,"
+Copyright ©2001-2025.
+                             Python Software Foundation
+                             Legal Statements
+                             Privacy Notice
+
+"
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://pyfound.blogspot.com/2025/07/affirm-your-psf-membership-voting-status.html,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://mailchi.mp/python/python-software-foundation-july-2024-newsletter-19880429,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://pyfound.blogspot.com/2025/07/notice-of-python-software-foundation.html,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://pythoninsider.blogspot.com/2025/07/python-3140-beta-4-is-here.html,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.djangoproject.com/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.pylonsproject.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://bottlepy.org,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://tornadoweb.org,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://flask.pocoo.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.web2py.com/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://wiki.python.org/moin/TkInter,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.gnome.org/Projects/PyGObject,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.riverbankcomputing.co.uk/software/pyqt/intro,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.qt.io/PySide,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://kivy.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.wxpython.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://dearpygui.readthedocs.io/en/latest/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.scipy.org,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://pandas.pydata.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://ipython.org,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://buildbot.net/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://trac.edgewall.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://roundup.sourceforge.net/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://www.ansible.com,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://saltproject.io,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://www.openstack.org,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://xon.sh,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://brochure.getpython.info/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://docs.python.org/3/license.html,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.python.org/moin/BeginnersGuide,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://devguide.python.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://docs.python.org/faq/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://wiki.python.org/moin/Languages,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://peps.python.org,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.python.org/moin/PythonBooks,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.python.org/moin/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://pyfound.blogspot.com/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://pycon.blogspot.com/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,http://planetpython.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://devguide.python.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://github.com/python/cpython/issues,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://mail.python.org/mailman/listinfo/python-dev,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://github.com/python/pythondotorg/issues,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://status.python.org/,
+127.0.0.1,1970-01-01,www.xyzabc.com,New Title,https://policies.python.org/python.org/Privacy-Notice/,
