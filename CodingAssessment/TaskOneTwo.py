@@ -1,10 +1,9 @@
-'''
+"""
 Write a class named ‘EmployeeClass’ which is having 	init	() method with 3 arguments
  emp_name, emp_id, emp_salary
    Example:
 E1 = EmployeeClass(‘emp-1’, 100, 1000)
-
-'''
+"""
 
 class EmployeeClass:
     def __init__(self, emp_name, emp_id, emp_salary):
