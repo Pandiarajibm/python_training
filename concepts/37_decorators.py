@@ -2,7 +2,18 @@
 Decorators:
 function to keep code/functionalities which is common for all other functions
 
+https://en.wikipedia.org/wiki/Decorator_pattern
+
 Used Decorator Design Pattern
+"""
+"""
+Below 2 lines are repeated but it is not in sequence, in add,subtract,mul functions 
+print("Result is:")
+print("End of the result")
+
+To reuse , we define functions to avoid copy paste but reuse the same code everytime needed. But in 
+this the repeated lines are not in sequence which is a challenge.
+We can handle this by using decorators. it is common to all programming language. not just python.
 """
 
 print("WITHOUT Decorators")
@@ -108,9 +119,9 @@ sub(10, 20)
 @my_decorator
 def mul(a, b):
     print(a * b)
-
-inner_function_reference = my_decorator(mul)
-inner_function_reference(10, 20)
+# @my_decorator will execute below 2 steps
+#inner_function_reference = my_decorator(mul)
+#inner_function_reference(10, 20)
 
 print("#"*40, end="\n\n")
 #########################

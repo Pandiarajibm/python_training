@@ -1,6 +1,7 @@
 """
 How to add methods?
 """
+import json
 
 """
 Requirement:
@@ -37,15 +38,21 @@ Create class for slack : MySlackClass
 --------------
 5. Get company information from json
 --------------
-
 """
 
 print("Defining the SlackClass")
 print("-"*20)
 # ----------------
+# import json - it will import json for entire program which may not be needed for all methods.
 
 class MySlackClass:
+    # import json - it will import json for all functions in the class which may not be needed for all methods.
     # New requirement: Also store employee_name and email
+    # self - object reference . we can use any other name instead of self also.standard naming convention self
+    # constructer in python is __new__. __init__ is initializer and it is not constructor.
+    # In summary: __new__ constructs the object and init initializes the object's attributes.
+    # in python , when object is created, __new__ and __init__ will be executed internall.
+
     def __init__(self, name, email): # Overriding method which is coming from object class to initialize our objects
         self.name = name
         self.email = email
@@ -53,6 +60,10 @@ class MySlackClass:
     # New requirement: Also add method to get employee_name and email
     def get_employee_name_and_email(self):
         return {"name": self.name, "email": self.email}
+
+    # - @classmethod will take care of passing class-object only to cls(not e1,e2, e3,etc) even if we are
+    #   calling this method using e1, e2 etc
+    # this cls or self is not reserved keyword. we can use any name instead.
 
     # 1. Add method to store slack channel name
     @classmethod
@@ -78,7 +89,7 @@ class MySlackClass:
         # create json file
         my_json_file_handle = open(file="my_company_info.json", mode="w")
         my_company_data = {"company_name": "XYZ", "company_email": "email@xyzabc.com"}
-        import json
+        import json   # here we are importing json only for the functions which need it. that much neat it is
         json.dump(my_company_data, my_json_file_handle)
         my_json_file_handle.close()
 
@@ -125,7 +136,7 @@ print("-"*20)
 
 MySlackClass.store_channel_name("Python-concepts")
 # - Cubicle-reference/object-reference 'MySlackClass' will be passed to 'cls'
-# - @classmethod will take care of passing class-object only to cls even if we are
+# - @classmethod will take care of passing class-object only to cls(not e1,e2, e3,etc) even if we are
 #   calling this method using e1, e2 etc
 
 print("Channel Name:", MySlackClass.get_channel_name())
@@ -154,6 +165,8 @@ print("-"*20)
 # ----------------
 
 # We can call static method using either instance or class objects
+# Because we can write static method if we dont need to pass class object
+# or instance object
 print("Company Info Using Class-object MySlackClass:", MySlackClass.get_company_info(), end="\n\n")
 print("Company Info Using Instance-object e1:",e1.get_company_info(), end="\n\n")
 print("Company Info Using Instance-object e2:",e2.get_company_info(), end="\n\n")
@@ -191,7 +204,7 @@ print("#"*40, end="\n\n")
 #       MySlackClass.store_slack_message(e1, "Hi This is e1")
 #       MySlackClass.store_slack_message(e2, "Hi This is e2")
 #########################
-
+# @classmethod or @staticmethod - we call them as decorators.
 # ----------------
 # POINT-3: How to access CLASS Methods
 # ----------------
@@ -224,4 +237,27 @@ print("#"*40, end="\n\n")
 #   Example:
 #       MySlackClass.get_company_info()
 #########################
+# IMPORTANT POINT: @staticmethod will not pass (any object) class object 'MySlackClass' or object instance e1,e2,etc
+# eventhough we are calling with MySlackClass or e1 & e2. When We don't need to instance object reference
+# or class object reference. we can write @static method.
+# To write a logic like get_company_info or computeaveragesalary ie when we did not need to access
+# class object or instance object, we can write staticmethod.
 
+
+# Final summary is we can use any object we can access any method based on  POINT 2, 3, 4
+
+"""
+Wikipedia
+The @staticmethod decorator in Python is used to define a static method within a class. Static methods are functions that belong to the class but do not operate on instances of the class or the class itself.
+Here are the key characteristics and uses of @staticmethod:
+
+    No self or cls parameter:
+    Unlike instance methods (which receive self as the first argument) or class methods (which receive cls as the first argument), static methods do not implicitly receive an instance or class reference. They behave like regular functions but are encapsulated within the class's namespace for organizational purposes.
+
+Independence from instance state:
+Static methods cannot access or modify instance-specific attributes or methods because they don't have access to self.
+Independence from class state:
+Static methods also cannot access or modify class-specific attributes or methods using cls.
+Calling static methods:
+Static methods can be called directly on the class itself, without needing to create an instance of the class. They can also be called on an instance, but the instance is not passed to the method.
+"""

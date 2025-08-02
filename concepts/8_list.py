@@ -15,6 +15,23 @@ print(my_list)
 print("#"*40, end="\n\n")
 #########################
 
+print("Pandia added")
+print("Oneliner Comprehention")
+print("-"*20)
+# ----------------
+
+L = [10, 20, 30, 40, 50]
+M = [i*i    for i in L] # Oneliner : Called Comprehensions
+N = [i*2    for i in L] # Oneliner : Called Comprehensions
+
+print("Print all values in the list",L)
+print("Print square of all values in the list using for loop", M)
+print("Print all values in the list multiplied by 2 using for loop", N)
+print("#"*40, end="\n\n")
+#########################
+
+
+
 print("list PART-2")
 print("Indexing is similar to strings")
 print("-"*20)

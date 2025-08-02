@@ -12,26 +12,28 @@ print("-"*20)
 # 1. add_course_name
 # 2. get_course_name
 
-class MyList(list):
+class MyList(list): # Class List Extending builtin list class
 
-    def add_my_course_name(self, name):
-        self.append(name)
+    def add_my_course_name(self, name): # this is my own method
+        self.append(name)    #- append() existing method in builtin list class
 
-    def get_my_course_name(self):
-        return self.pop()
+    def get_my_course_name(self):  # this is my own method
+        return self.pop()   # pop() existing method in builtin list class
 
 
 
 my_list = MyList([100, 200, "Java", "C++"])
 print("my_list:", my_list)
 
-my_list.append("C")
+my_list.append("C")   # calling existing method of builtin List class
 print("my_list after adding C using append():", my_list)
 
 # Add course name
 my_list.add_my_course_name("Python")
 print("my_list after adding 'python' using add_my_course_name_method():", my_list)
+print("my_list:", my_list)
 print("Get course name using get_my_course_name_method():", my_list.get_my_course_name())
+print("my_list:", my_list)
 
 print("#"*40, end="\n\n")
 #########################
@@ -72,7 +74,9 @@ class NewSalaryClass(Salary):
         # 1-way to access super-class method
         old_scheme_salary = super().get_salary() # Immediate super class
         # OR
-        # 2-way to access super-class method using class name
+        # 2-way to access super-class method using class name.
+        # Not necessarily immediate super class. say if there are 4 super class,
+        # it will access the super-class method using exact class name
         old_scheme_salary = Salary.get_salary(self)
         return old_scheme_salary
 
@@ -98,7 +102,7 @@ print(NewSalaryClass.mro())
 print("#"*40, end="\n\n")
 #########################
 
-print("2.multiple Inheritance example")
+print("2.multiple Inheritance example")   # we can inherit from multiple classes.
 print("-"*20)
 # ----------------
 
@@ -115,6 +119,8 @@ class Tax:
         self.tax= t
     def get_tax(self):
         return self.tax
+    def get_salary(self):
+        return (self.salary-self.tax)
 
 # NEW REQUIREMENT: Write class with below functionalities
 # 1. add_salary
@@ -128,7 +134,7 @@ class Tax:
 # and remaining 2 methods we can provide implementation
 
 # multiple inheritance
-class Employee(Salary, Tax):
+class Employee(Salary, Tax): # Employee class extending Salary Class and Tax class
     def add_name(self, name):
         self.name = name
     def get_name(self):
@@ -140,8 +146,13 @@ e1.add_name("emp-1")
 e1.add_salary(10000)
 e1.add_tax(1000)
 
+
 print("name:", e1.get_name())
-print("salary:", e1.get_salary())
+print("Salary:", e1.get_salary()) # this will always call getSalary method in Salary class and not from Tax class
+print("By default, always calls get_Salary() method of Salary Class:",e1.get_salary())
+print("to call get_Salary() method of Tax Class -Tax.get_salary(e1):",Tax.get_salary(e1))
+
+print("Prints Salary using get_Salary() method from Tax Class:",Tax.get_salary(e1))
 print("tax:", e1.get_tax())
 
 print("#"*40, end="\n\n")
@@ -156,3 +167,7 @@ print(Employee.mro())
 
 print("#"*40, end="\n\n")
 #########################
+# Note - in Multiple inheritance in above example if there is getSalary() method in both salary class and tax class
+# then accessing Employee object e1 will always e1.getSalary() will always call its parent salary class getSalary
+# method. It will not execute getSalary() method found in another parent tax class. if we want to execute
+# getSalary() method in tax class , use instance method say e1.tax.getSalary()

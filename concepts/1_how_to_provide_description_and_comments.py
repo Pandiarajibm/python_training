@@ -29,7 +29,8 @@ that too multiline comment
 # - Python is one of the object oriented programming languagag
 # - open source
 # - platform independent
-#
+# - General purpose language. it can be used in any domain.
+# -
 # Compare to other language
 #	-- Easy to learn
 #	-- We can produce neat code (Readability)

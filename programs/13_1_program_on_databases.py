@@ -1,11 +1,6 @@
 """
 Program on databases
-
 SQLITE3 Documentation: https://docs.python.org/3/library/sqlite3.html
-#       - Few libraries are getting installed when we install python
-#       - Library Location: C:\Python313\Lib
-#         Found with the help of environment variables.same way we can find path of library location in our laptop.
-#         Standard Libraries are installed as part of Python installation.
 
 for sql connector documentation - pypi.org/project/mysql-connector-python/
 library found in Big repository-
@@ -164,36 +159,7 @@ print("#" * 40, end="\n\n")
 print("Extract IP, DATE, URL and Send It Database")
 print("-" * 20)
 # ----------------
-# we have 3 options to run insert query -
-# cur.execute, cur.executescript,cur.executemany
-# When data is coming as list of tuples, tuple of list. it that case no need to run for loop
-# in our case we used excute
-"""
-data = [
-    ("Monty Python Live at the Hollywood Bowl", 1982, 7.9),
-    ("Monty Python's The Meaning of Life", 1983, 7.5),
-    ("Monty Python's Life of Brian", 1979, 8.0),
-]
-cur.executemany("INSERT INTO movie VALUES(?, ?, ?)", data)
-con.commit()  # Remember to commit the transaction after executing INSERT.
-"""
-"""
-if we have to execute sql file , then we use executescript options is there
-"""
-"""
 
-execute(sql, parameters=(), /)
-
-    Create a new Cursor object and call execute() on it with the given sql and parameters. Return the new cursor object.
-
-executemany(sql, parameters, /)
-
-    Create a new Cursor object and call executemany() on it with the given sql and parameters. Return the new cursor object.
-
-executescript(sql_script, /)
-
-    Create a new Cursor object and call executescript() on it with the given sql_script. Return the new cursor object.
-"""
 import re
 
 for each_line in file_contents:
@@ -203,11 +169,9 @@ for each_line in file_contents:
         ip = match_result.group(1)
         dt = match_result.group(2)
         url = match_result.group(3)
-        # instead of printing, we are sending data to database
         my_sql_query = f"INSERT INTO MYTABLE VALUES('{ip}', '{dt}', '{url}')"
-        # we are passing variables in the above insert query, so we use f before the query.
         print("Executing SQL Query:", my_sql_query)
-        my_cursor.execute(my_sql_query) # in our case we used excute
+        my_cursor.execute(my_sql_query)
         print("One Record Inserted\n")
 
 my_db_connection.commit()
@@ -219,6 +183,7 @@ print("#" * 40, end="\n\n")
 print("Get data from database and print")
 print("-" * 20)
 # ----------------
+
 my_sql_query = "SELECT * FROM mytable"
 my_cursor.execute(my_sql_query)
 my_db_result = my_cursor.fetchall()

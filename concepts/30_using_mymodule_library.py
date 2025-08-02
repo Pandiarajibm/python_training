@@ -12,12 +12,12 @@ print("-"*20)
 
 import mymodule
 
-print("Course:", mymodule.course, end="\n\n")
+print("Course:", mymodule.course, end="\n\n")             #prefix with module name mymodule
 
-add_result = mymodule.add(1, 2)
+add_result = mymodule.add(1, 2)                      #prefix with module name mymodule
 print("add_result:", add_result, end="\n\n")
 
-s1 = mymodule.Student("Student-1", 100)
+s1 = mymodule.Student("Student-1", 100)        # prefix with module name mymodule
 print("Student - 1 Name:", s1.get_name())
 print("Student - 1 Score:", s1.get_score(), end="\n\n")
 
@@ -30,12 +30,12 @@ print("-"*20)
 
 from mymodule import course, add, Student
 
-print("Course:", course, end="\n\n")
+print("Course:", course, end="\n\n")        # no need to prefix with module name mymodule
 
-add_result = add(1, 2)
+add_result = add(1, 2)                 # no need to prefix with module name mymodule
 print("add_result:", add_result, end="\n\n")
 
-s1 = Student("Student-1", 100)
+s1 = Student("Student-1", 100)   # no need to prefix with module name mymodule
 print("Student - 1 Name:", s1.get_name())
 print("Student - 1 Score:", s1.get_score(), end="\n\n")
 

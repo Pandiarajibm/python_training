@@ -10,7 +10,7 @@ http://127.0.0.1:5000/adddbdata
 
 # --------------
 # Create App
-# ---------------
+# ------- --------
 import flask
 my_rest_api_app = flask.Flask("MyAPIAPPName")
 #########################
@@ -35,7 +35,7 @@ def getdbdata():
 @my_rest_api_app.route("/adddbdata", methods=["POST"])
 def adddbdata():
     """
-    Our Plan:
+    Our Plan: User should send record in this format.
     Task-1: Receive new record details sent by end user
             Example: {"IP": "192.168.127.12", DATE:"20/Jun/2022", URL:"www.example.com"}
     Task-2: Check whether record exists
@@ -59,6 +59,7 @@ def adddbdata():
     my_sql_query = f"SELECT * FROM mytable WHERE IP = '{ip}'"
     cur.execute(my_sql_query)
     my_db_data = cur.fetchone() # Returns None if no record present
+    print("PANDIA WANTS TO SEE", my_db_data)
     if my_db_data is None:
         my_sql_query = f"INSERT INTO MYTABLE VALUES('{ip}', '{date}', '{url}')"
         cur.execute(my_sql_query)
@@ -77,3 +78,14 @@ my_rest_api_app.run() # Default host='127.0.0.1', port=5000
 #########################
 
 # ACCESS THIS API USING END POINT : http://127.0.0.1:5000/getdbdata
+# For those who wants to get info from db, we give END POINT-1
+# Use can access this url thro browser or thro post man or thro any rest client
+
+# END POINT-2: URL http://127.0.0.1:5000/adddbdata mapped to route("/adddbdata")
+# to run this we can use postman or any rest api.
+# For those who wants to add info to db , we give END POINT-2
+# Use can access this url thro browser with installing some extensions or thro post man or thro any rest client
+# or thro any programming language.
+
+
+

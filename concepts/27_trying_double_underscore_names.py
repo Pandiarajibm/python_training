@@ -1,4 +1,5 @@
-"""
+f"""
+few Operators functions, builin function use __
 Trying __ (Double Underscore names)
 which is system defined names
 these names are given to
@@ -7,8 +8,12 @@ these names are given to
         for +, system defined name is __add__
  - some functions
         for builtin len(), system defined name is __len__
+len() - will work for classes like string, tuple, list,set,frozenset, dictionary etc because 
+the creaters have provided implementation.
+For the classes which we create we need to provide implementation as functions for len function.
 """
 
+#------------
 print("Class Employee")
 print("-"*20)
 # ----------------
@@ -88,6 +93,7 @@ class Employee:
         # result = len(self.name)
         # return result
 
+
 e1 = Employee("Emp-1")
 e2 = Employee("Emp-2")
 
@@ -96,10 +102,12 @@ print("Employee-2 Name:", e2.get_name(), end="\n\n")
 
 # Requirement: if we add 2 objects of Employee class then
 #   it should concatinate both names and return
-add_result = e1+e2 # Internally e1.__add__(e2)
+add_result = e1+e2 # Internally e1.__add__(e2) . if we have to add many objects which are being
+                    # created, we have run iteratively to add of them.
+
 print("add_result:", add_result, end="\n\n") # "Emp-1Emp-2"
 
-print("Length of e1:", len(e1)) # e1.__len__()
+print("Length of e1:", len(e1)) # e1.__len__()    #for len(e1), we need to provide implementation
 print("Length of e2:", len(e2), end="\n\n")  # e2.__len__()
 
 print("#" * 40, end="\n\n")
@@ -121,7 +129,9 @@ class Employee:
         second_employee_name = second_object.name
         return first_employee_name + second_employee_name
 
-    def __len__(self): # self=e1, e2
+    def __len__(self): # self=e1, e2. 2 WAYS we can define len function as below.
+                       # any one WAY we can use. Below we are using 1st WAY
+                       # without using len function of string class
         # 1-WAY: Without using len() with string
         count = 0
         for i in self.name:
@@ -180,4 +190,3 @@ for j in e2:
 
 print("#" * 40, end="\n\n")
 #########################
-

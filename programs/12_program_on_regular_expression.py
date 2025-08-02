@@ -8,6 +8,24 @@ DATE
 URL
 
 using regular expression
+import re - library for regular expression
+in this example i am looking for lines starting with any ip address say 123.123.123.123 to get IP, DATE , URL,
+Here match will be suitable. search will not be suitable as it will check if the pattern exists anywhere in the line.
+we need to check pattern in the beginning. if the pattern is not in the start but it is there in middle, then match
+will not identify. in that case we need to use search to find pattern anywhere , middle, end , start etc in the line.
+fullmatch also not suitable as the string also should match along with pattern from start to end.
+
+m = re.match(r"(\w+) (\w+)", "Isaac Newton, physicist")
+m.group(0)       # The entire match
+'Isaac Newton'
+m.group(1)       # The first parenthesized subgroup.
+'Isaac'
+m.group(2)       # The second parenthesized subgroup.
+'Newton'
+m.group(1, 2)    # Multiple arguments give us a tuple.
+('Isaac', 'Newton')
+
+
 """
 print("Get data from sample_data.txt")
 print("-"*20)
@@ -28,10 +46,11 @@ print("-"*20)
 
 import re
 for each_line in file_contents:
-    match_result = re.match(r'123.123.123.123', each_line)
+    match_result = re.match(r'123.123.123.123', each_line)  # here are matching pattern with exact string
     print("Each Line:", each_line)
     print("Match Result:", match_result, end="\n\n")
 
+# we can match pattern also,exact data also and pattern with exact data. Above pattern as exact data.
 print("#"*40, end="\n\n")
 #########################
 
@@ -43,6 +62,7 @@ import re
 for each_line in file_contents:
     # 1-WAY
     # match_result = re.match(r'\d\d\d\.\d\d\d\.\d\d\d\.\d\d\d', each_line)
+    # dont leave any space in between or at the end while providing pattern as it will look for space also to match
     # 2-WAY
     match_result = re.match(r'\d{3}.\d{3}\.\d{3}\.\d{3}', each_line)
     # 3-WAY
@@ -60,14 +80,14 @@ IDENTIFIERS
 ------
 \d -> use \d to tell one digit b/n 0 to 9
 \D -> use \D to tell one non-digit. Any character expect digits between 0 to 9
-. -> Use . (DOT) to say some-character/any-character
-\. -> This represents striclty DOT
+. -> Use . (DOT) to say some-character/any-character. Dot
+\. -> This represents strictly DOT
 ------
 
 QUANTIFIERS
 ------
 \d{3} -> It makes \d 3 times
-\d{1,3} -> It can be one digit or two digits are 3 digits
+\d{1,3} -> It can be one digit or two digits or 3 digits
 ------
 
 """
@@ -85,6 +105,8 @@ for each_line in file_contents:
     if match_result is not None:
         ip = match_result.group(1)
         print("IP:", ip)
+        ip1 = match_result.group(0)                 # Pandia added
+        print("IP:Entire String", ip1, end="\n\n")  # Pandia added
 
 # ---------------
 # COMMENT
@@ -99,10 +121,42 @@ To capture IP Address, put () to IP address pattern
 print("#"*40, end="\n\n")
 #########################
 
-print("Extract IP: Example-2")
+print("Extract IP - Pandia added")
 print("-"*20)
 # ----------------
 
+import re
+for each_line in file_contents:
+    match_result = re.match(r'(\d{3}.\d{3}\.\d{3}\.\d{3})', each_line)
+    if match_result is not None:
+        ip = match_result.group(1)
+        print("1st Half",ip)
+        #ip = match_result.group(2) - Here there is no group 2. it is group 0 and 1
+        print("2nd Half",ip)
+        ip = match_result.group(0)
+        print("Full IP",ip)
+
+print("#"*40, end="\n\n")
+#########################
+
+import re
+for each_line in file_contents:  # this block is same as example of re.match in python documentation
+    match_result = re.match(r'(\d{3}.\d{3})\.(\d{3}\.\d{3})', each_line)
+    if match_result is not None:
+        ip = match_result.group(1)
+        print("1st Half",ip)
+        ip = match_result.group(2)
+        print("2nd Half",ip)
+        ip = match_result.group(0)
+        print("Full IP",ip)
+
+print("#"*40, end="\n\n")
+#########################
+
+print("Extract IP: Example-2")
+print("-"*20)
+# ----------------
+# Grouping is Based on the braces ie group 1, group2 etc
 import re
 for each_line in file_contents:
     match_result = re.match(r'((\d{3}.\d{3})\.(\d{3}\.\d{3}))', each_line)
@@ -134,7 +188,7 @@ print("#"*40, end="\n\n")
 print("Extract IP, DATE")
 print("-"*20)
 # ----------------
-
+# 26/Apr/2000
 import re
 for each_line in file_contents:
     # 1-way
@@ -212,6 +266,14 @@ for each_line in file_contents:
         dt = match_result.group(2)
         url = match_result.group(3)
         print(ip, dt, url, sep="\t\t")
+# this above match_result for url will match this example r[ea]+d -> r followed by any one or more either 'e' or 'a' followed by 'd'
+# r[ea]*d -> r followed by any ZERO or more either 'e' or 'a' followed by 'd' - this also give similar result for url
+"""
+MODIFIERS:
+* -> to make 0 or more times
++ -> to make 1 or more times
+? -> to make 0 or 1 time
+"""
 
 # ---------------
 # COMMENT-1
@@ -231,7 +293,7 @@ https? -> here also 's' is optional
 [https]? -> 0 occurance OR one occurance of 
             any one of the character present in group characters mentioned in square bracket
 
-(https)? -> extact word 'https' 1 occurance or 0 occurance
+(https)? -> exact word 'https' 1 occurance or 0 occurance
 
 abc* -> ab followded by 0 or more occurance of 'c'
         Example:
@@ -239,7 +301,7 @@ abc* -> ab followded by 0 or more occurance of 'c'
             abc # MATCH
             abcccccc # MATCH
 
-(abc)* -> Exact 'abc', 0 or more times
+(abc)* -> Exact 'abc', 0 or more times  . 
         Example:
             abc # MATCH
             abcabc # MATCH
@@ -258,7 +320,7 @@ r[ea]d -> r followed by any one character either e or a followed by 'd'
                 reeeaaad  # NOT MATCH
                 raaeed # NOT MATCH
 
-r(ea)d -> r followed by extact word 'ea' followed by d
+r(ea)d -> r followed by exact word 'ea' followed by d
             Example:
                 rd # NOT MATCH        
                 red  # NOT MATCH
@@ -303,7 +365,7 @@ r[ea]*d -> r followed by any ZERO or more either 'e' or 'a' followed by 'd'
                 raed  # MATCH
                 reeeaaad  # MATCH
                 raaeed # MATCH
-
+ 
 """
 
 print("#" * 40, end="\n\n")

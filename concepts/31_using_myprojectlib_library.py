@@ -1,7 +1,14 @@
 """
 PACKAGES:
     We can keep/organize modules in folders and subfolders. These folders and subfolders
-    are called PACKAGES or PYTHON-LIBRARY
+    are called PACKAGES or PYTHON-LIBRARY.
+    If someone says PYTHON LIBRARY, it could mean single file or folder. it will come in 2 flavours
+    It can be single file or folder.
+
+below is from wikipedia
+A Python package is a mechanism for organizing and structuring related Python modules into a
+hierarchical directory structure. It facilitates the management and reuse of code,
+particularly in larger projects.
 """
 
 print("1-way: import using 'import-statement'")

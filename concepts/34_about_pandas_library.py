@@ -4,6 +4,8 @@ https://pypi.org/project/pandas/
 
 - pandas is one library
 - pandas is developed for tabular data like xlsx, csv, db etc
+- #tabular data means list of lists, list of tuples, like that
+if you remember inside our mymodule.py library we had one variable, one funtions, one class.similarly
 - Inside pandas library
     -- We have many functions
             --- like read_csv, read_excel etc
@@ -14,6 +16,7 @@ https://pypi.org/project/pandas/
 About 'DataFrame' class
 - 'DataFrame' class has methods related to tabular data processing
     starting from sum, mean, etc to advance functions
+
 """
 
 print("Inside pandas library")
@@ -49,7 +52,8 @@ print("#"*40, end="\n\n")
 print("Store Data Inside 'DataFrame' class' object: Example-2")
 print("-"*20)
 # ----------------
-
+#tabular data means list of lists, list of tuples, like that
+#index means rows
 import pandas as pd
 my_df = pd.DataFrame([[10, 20, 30, 40, 50], [60, 70, 80, 90, 100]],
                      index=['r1', 'r2'],

@@ -23,7 +23,7 @@ try:
     b = 0
     result = a/b # Program will NOT terminate here. Instead control will be passed to 'except-block'
     print(result)
-except:
+except:       # default
     print("Reached Except Block")
     print("Here we are writing logic to solve problem happened in try-block")
 
@@ -47,7 +47,7 @@ print("#"*40, end="\n\n")
 # - For remaining type of error, we need to write exception class so that
 #   we can handle using try-except blocks
 #
-# - Whenerver we are using some libraries, that time most of the libraries
+# - Whenever we are using some libraries, that time most of the libraries
 #   also provide exception classes for the type of error occurs while using the libraries
 #
 # In above 'except-block', we didn't mention type of error to handle?
@@ -66,9 +66,22 @@ print("-"*20)
 # ----------------
 
 try:
+    # a = 10
+    # b = 0
+    # result = a / b  # Program will NOT terminate here. Instead control will be passed to 'except-block'
+                      # ZeroDivision Error
+    #a = 10
+    #b = 0
+    #result = a / xyz  # Variable xyz not defined.
+
+    # if any exception occurs,then next lines of code after that in try block will not execute and
+    # the control goes to except block and will not go back to try block after running except block
+
     L = [10, 20]
-    print(L[100]) # index 100 is not present so IndexError
-except ZeroDivisionError: # 1-way to specify class name in except
+    print(L[100]) # index 100 is not present so IndexError. The appropriate except block will be executed
+                  #x=a/b # This will never get executed because control has to except block.
+
+except ZeroDivisionError: # 1-way to specify class name in except. ZeroDivisionError is a class
     print("Reached Except Block")
     print("This is ZDE")
 except NameError as ne: # 2-way to specify class name in except, where we are storing error message
@@ -78,7 +91,11 @@ except Exception as e: # Remaining type of error will come here
     print("Reached Except Block")
     print("This is default except with class name 'Exception' so that we can store error messages:")
     print("Message is :", e)
-
+        #exit()
+# there will be multiple except block to handle to possible exceptions. However only one except will get
+# executed based on the type of exception. After throwing the exception, program will continue running
+# next lines of code till end of program. IT WILL NOT Terminate Abruptly. It will continue execution.
+# if we want to terminate the program purposefully, then we can use exit() method.
 
 print("#"*40, end="\n\n")
 #########################
@@ -91,7 +108,10 @@ print("-"*20)
 try:
     print("Reached try block")
     print("Opening file..")
-    my_file_handle = open(file=r"D:\some\wrong\file.txt", mode="w")
+    #Below is try block FAILURE case
+    #my_file_handle = open(file=r"D:\some\wrong\file.txt", mode="w")
+    #Below is try block SUCCESS case
+    my_file_handle = open(file=r"C:\python_training\file.txt", mode="w")
 except Exception as e:
     print("Reached Except Block")
     print("This exception block is written to handle all file open() function error")
@@ -119,15 +139,18 @@ finally:
 # - 'always' means, if try-block/except-block/else-block SUCCESS/FAILED
 #   in both the cases it will execute
 # - So, use this block for mandatory task, cleanup, logout, closing connections
-#   which we want to do it in both success/failed cases
+#   which we want to do it in both success/failed cases.
 
 print("#"*40, end="\n\n")
 #########################
 
 # ----------------
-# 'os' library
+# 'os' library   - create directory, remove directory, directory traverse,check if file
+# exists and other file related operations
+# import os
+# dir(os) - will provide all builtin classes for directory and file operations.
 # ----------------
-# Use this library for directory operations
+# Use this library for directory operations, file operations
 #########################
 
 print("User defined exception class Example-1")
@@ -223,3 +246,16 @@ class MyClass:
             pass
 #########################
 
+# if there are multiple classes created with same class name, it will not say duplicate class
+# latest class with same name will be called. if that class is c
+
+class MyClass:
+    pass
+
+class MyClass:
+    pass
+
+c=MyClass() # this will call latest nearest Myclass above this line.
+            # it will call MyClass in line number 255 and not 252 or above that.
+
+#This applies to any variable name, function name, class name if same name is used, latest one will be called
